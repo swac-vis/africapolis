@@ -274,6 +274,241 @@
   margin-bottom: 2rem;
 }
 
+/* Home – OECD-style: map top ~1/3, three columns below */
+.page--home {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  max-width: none;
+}
+
+.home__hero {
+  position: relative;
+  width: 100%;
+  height: min(50vh, 560px);
+  min-height: 360px;
+  flex-shrink: 0;
+  background: var(--afri-beige-dark);
+  overflow-x: hidden;
+}
+
+.home__location {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  max-width: calc(100% - 10rem);
+}
+
+.home__location .location-select {
+  min-width: 12rem;
+}
+
+.home__basemap-overlay {
+  position: absolute;
+  bottom: 2.25rem;
+  right: 1rem;
+  z-index: 5;
+}
+
+/* Dropdown right-aligned so it doesn’t overflow off the right edge */
+.home__basemap-overlay .basemap-selector__list {
+  left: auto;
+  right: 0;
+}
+
+.home__map-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.home__map-wrap .africapolis-map,
+.home__map-wrap .africapolis-map__container {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+
+.home__map-controls {
+  position: absolute;
+  bottom: 2.25rem;
+  left: 1rem;
+  z-index: 5;
+  display: flex;
+  align-items: stretch;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--afri-border);
+  background: rgba(248, 245, 240, 0.92);
+}
+
+.home__map-control {
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: none;
+  border-right: 1px solid rgba(109, 74, 46, 0.15);
+  background: transparent;
+  color: var(--afri-text-light);
+  font-size: 1.125rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, background 0.15s;
+}
+
+.home__map-control:last-child {
+  border-right: none;
+}
+
+.home__map-control:hover {
+  background: rgba(109, 74, 46, 0.08);
+  color: var(--afri-text);
+}
+
+.home__map-control--home svg {
+  display: block;
+}
+
+.home__hero-cta {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--afri-orange);
+  border-radius: 0.25rem;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  z-index: 5;
+}
+
+.home__hero-cta:hover {
+  background: #b85a3f;
+  color: #fff;
+}
+
+.home__downloads {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0 2rem;
+  padding: 1rem 1.5rem;
+  background: var(--afri-beige-dark);
+  border-bottom: 1px solid var(--afri-border);
+  width: 100%;
+}
+
+.home__download-btn {
+  padding: 0.3rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--afri-orange);
+  background: rgba(217, 119, 87, 0.12);
+  border: 1px solid rgba(217, 119, 87, 0.35);
+  border-radius: 0.2rem;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+
+.home__download-btn:hover {
+  background: rgba(217, 119, 87, 0.2);
+  border-color: rgba(217, 119, 87, 0.5);
+  color: var(--afri-orange);
+}
+
+.home__download-more {
+  margin-left: auto;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--afri-orange);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.home__download-more:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .home__downloads {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+  .home__download-btn {
+    display: inline-block;
+    width: fit-content;
+  }
+  .home__download-more {
+    margin-left: 0;
+    margin-top: 0.25rem;
+    text-align: right;
+  }
+}
+
+.home__content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem 2.5rem;
+  padding: 2.5rem 1.5rem 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.home__col {
+  min-width: 0;
+}
+
+.home__col-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--afri-text);
+  margin: 0 0 0.75rem;
+  line-height: 1.35;
+}
+
+.home__col-body {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--afri-text-light);
+  margin: 0;
+}
+
+.home__col-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--afri-orange);
+  text-decoration: none;
+}
+
+.home__col-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .home__content {
+    grid-template-columns: 1fr;
+    padding: 1.5rem 1rem 2rem;
+  }
+}
+
 /* News / Newsletter – Africapolis layout */
 .page--news {
   max-width: 1100px;
@@ -1439,6 +1674,60 @@ a.data__download-btn {
   gap: 1rem;
 }
 
+/* Zoom/home – top-right, moves with panel */
+.data-map__map-controls-overlay {
+  position: absolute;
+  top: 1rem;
+  left: auto;
+  right: calc(320px + 0.75rem);
+  z-index: 10;
+  transition: right 0.25s ease;
+}
+
+.data-map__map-wrap--overlays-collapsed .data-map__map-controls-overlay {
+  right: calc(20px + 0.75rem);
+}
+
+.data-map__map-controls {
+  display: flex;
+  align-items: stretch;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(109, 74, 46, 0.2);
+  background: rgba(248, 245, 240, 0.75);
+}
+
+.data-map__map-control {
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: none;
+  border-right: 1px solid rgba(109, 74, 46, 0.15);
+  background: transparent;
+  color: var(--afri-text-light);
+  font-size: 1.125rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, background 0.15s;
+}
+
+.data-map__map-control:last-child {
+  border-right: none;
+}
+
+.data-map__map-control:hover {
+  background: rgba(109, 74, 46, 0.08);
+  color: var(--afri-text);
+}
+
+.data-map__map-control--home svg {
+  display: block;
+}
+
 /* Base map – floating right, left of control panel */
 .data-map__basemap-overlay {
   position: absolute;
@@ -1451,6 +1740,12 @@ a.data__download-btn {
 
 .data-map__map-wrap--overlays-collapsed .data-map__basemap-overlay {
   right: calc(20px + 0.75rem);
+}
+
+/* Dropdown right-aligned so it doesn’t overflow off the right edge (same as Home) */
+.data-map__basemap-overlay .basemap-selector__list {
+  left: auto;
+  right: 0;
 }
 
 .basemap-selector {

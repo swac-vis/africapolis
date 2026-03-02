@@ -221,6 +221,20 @@ export default function Data() {
               </button>
             </div>
           </div>
+
+          <div className="data__download-card">
+            <h3 className="data__download-title">{t('pages.data.gis')}</h3>
+            <p className="data__download-desc">{t('pages.data.gisDesc')}</p>
+            <div className="data__download-btns">
+              <a
+                href={asset('data/statistics/gpkg/Africapolis_GIS_2025.gpkg')}
+                download="Africapolis_GIS_2025.gpkg"
+                className="data__download-btn"
+              >
+                {t('pages.data.downloadGpkg')}
+              </a>
+            </div>
+          </div>
         </div>
 
         <div className="data__citation">

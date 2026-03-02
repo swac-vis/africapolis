@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from 'react'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 import {
@@ -33,7 +33,7 @@ function getFirstPointFromGeom(geom) {
   return Array.isArray(p) && p.length >= 2 ? p : null
 }
 
-function AfricapolisMap({
+const AfricapolisMap = forwardRef(function AfricapolisMap({
   baseStyle = 'base',
   year = 2020,
   theme = 'demography',
@@ -45,10 +45,11 @@ function AfricapolisMap({
   agglomeration = '',
   indicatorRange,
   selectedAgglos = null,
+  initialZoom,
   onCountryClick,
   onRegionClick,
   onAgglomerationClick,
-}) {
+}, ref) {
   const containerRef = useRef(null)
   const mapRef = useRef(null)
   const popupRef = useRef(null)
@@ -65,6 +66,18 @@ function AfricapolisMap({
   const indicatorRef = useRef(indicator)
   indicatorRef.current = indicator
 
+  useImperativeHandle(ref, () => ({
+    zoomIn() {
+      mapRef.current?.zoomIn()
+    },
+    zoomOut() {
+      mapRef.current?.zoomOut()
+    },
+    flyToHome() {
+      mapRef.current?.flyTo({ center: DEFAULT_CENTER, zoom: DEFAULT_ZOOM })
+    },
+  }), [mapReady])
+
   useEffect(() => {
     if (!containerRef.current) return
     mapboxgl.accessToken = MAPBOX_TOKEN
@@ -75,7 +88,7 @@ function AfricapolisMap({
       container: containerRef.current,
       style: styleUrl,
       center: DEFAULT_CENTER,
-      zoom: DEFAULT_ZOOM,
+      zoom: initialZoom ?? DEFAULT_ZOOM,
       pitch: 0,
       bearing: 0,
       projection: 'mercator',
@@ -435,9 +448,11 @@ function AfricapolisMap({
 
   // Fly to location when location changes - use fitBounds (animate: false) per MAP_SELECTION_AND_FILTER.md
   // Skip when agglomeration selected (selectedAgglos useEffect handles flyTo)
+  // When initialZoom is set (e.g. Home page), do not override view for empty location – keep initial zoom
   useEffect(() => {
     const map = mapRef.current
     if (!map || !mapReady || agglomeration) return
+    if (!location && initialZoom != null) return
 
     getLocationFilterAndView(location).then(({ bounds, center, zoom }) => {
       if (!map) return
@@ -485,6 +500,6 @@ function AfricapolisMap({
       <div ref={containerRef} className="africapolis-map__container" />
     </div>
   )
-}
+})
 
 export default AfricapolisMap

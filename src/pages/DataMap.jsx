@@ -61,6 +61,7 @@ export default function DataMap() {
   const [panelCollapsed, setPanelCollapsed] = useState(false)
   const [mapHistoryLength, setMapHistoryLength] = useState(0)
   const mapHistoryStackRef = useRef([])
+  const mapControlsRef = useRef(null)
 
   const themeId = searchParams.get('theme') || 'demography'
   const theme = getTheme(themeId)
@@ -410,6 +411,37 @@ export default function DataMap() {
       </aside>
 
       <div className={`data-map__map-wrap ${panelCollapsed ? 'data-map__map-wrap--overlays-collapsed' : ''}`}>
+        <div className="data-map__map-controls-overlay">
+          <div className="data-map__map-controls">
+            <button
+              type="button"
+              className="data-map__map-control"
+              title={t('pages.dataMap.zoomOut')}
+              aria-label={t('pages.dataMap.zoomOut')}
+              onClick={() => mapControlsRef.current?.zoomOut()}
+            >
+              −
+            </button>
+            <button
+              type="button"
+              className="data-map__map-control"
+              title={t('pages.dataMap.zoomIn')}
+              aria-label={t('pages.dataMap.zoomIn')}
+              onClick={() => mapControlsRef.current?.zoomIn()}
+            >
+              +
+            </button>
+            <button
+              type="button"
+              className="data-map__map-control data-map__map-control--home"
+              title={t('pages.dataMap.resetView')}
+              aria-label={t('pages.dataMap.resetView')}
+              onClick={() => mapControlsRef.current?.flyToHome()}
+            >
+              <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 3L3 9v8h4v-5h6v5h4V9l-7-6z"/></svg>
+            </button>
+          </div>
+        </div>
         <div className="data-map__basemap-overlay">
           <BaseMapSelector
             value={baseStyle}
@@ -479,6 +511,7 @@ export default function DataMap() {
           </div>
         </div>
         <AfricapolisMap
+          ref={mapControlsRef}
           baseStyle={baseStyle}
           theme={themeId}
           year={resolvedYear}

@@ -8,21 +8,21 @@
   font-family: 'DM Sans', system-ui, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color: #2d3748;
-  background-color: #ffffff;
+  color: #141413;
+  background-color: #faf9f5;
 
-  /* Main #f5f5f5, left sidebar close to white */
-  --afri-beige: #f5f5f5;
-  --afri-beige-dark: #fcfcfc;
-  --afri-orange: #b25391;
-  --afri-orange-light: #c06a9f;
-  --afri-brown: #5a5349;
-  --afri-brown-dark: #3d3832;
-  --afri-text: #2d3748;
-  --afri-text-light: #64748b;
-  --afri-border: #e0e0e0;
-  --afri-shadow: 0 2px 8px rgba(90, 83, 73, 0.06);
-  --afri-shadow-lg: 0 8px 24px rgba(90, 83, 73, 0.08);
+  /* Anthropic/Claude palette: Light #faf9f5, Dark #141413, Mid #b0aea5, Light Gray #e8e6dc, Orange #d97757 */
+  --afri-beige: #faf9f5;
+  --afri-beige-dark: #f3f2ed;
+  --afri-orange: #d97757;
+  --afri-orange-light: #e8a574;
+  --afri-brown: #141413;
+  --afri-brown-dark: #0d0d0c;
+  --afri-text: #141413;
+  --afri-text-light: #6b6962;
+  --afri-border: #e8e6dc;
+  --afri-shadow: 0 2px 8px rgba(20, 20, 19, 0.06);
+  --afri-shadow-lg: 0 8px 24px rgba(20, 20, 19, 0.08);
 }
 
 #root {
