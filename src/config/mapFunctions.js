@@ -16,6 +16,18 @@ export function setAgglosColorFromExpr(popExpr) {
   ]
 }
 
+/** Opacity by city size: small 0.45, medium 0.55, large 0.65 (lighter overall) */
+export function setAgglosOpacityFromExpr(popExpr) {
+  const input = Array.isArray(popExpr) ? popExpr : ['get', popExpr]
+  return [
+    'step',
+    input,
+    0.45,
+    SMALL_THRESHOLD, 0.55,
+    MEDIUM_THRESHOLD, 0.65,
+  ]
+}
+
 /**
  * Sqrt-scaled radius: small pops stay small, large pops prominent
  */

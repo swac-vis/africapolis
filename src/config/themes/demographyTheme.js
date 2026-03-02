@@ -1,7 +1,7 @@
 /** Demography and Spatial theme - population-based bubbles, multi-year, compare mode */
 
 import { BORDER_YEARS, getPopExpressionForBorder } from '../mapConfig'
-import { setAgglosColorFromExpr, setAgglosRadiusFromExpr } from '../mapFunctions'
+import { setAgglosColorFromExpr, setAgglosRadiusFromExpr, setAgglosOpacityFromExpr } from '../mapFunctions'
 import { buildMinPopFilter, buildPopulationRangeFilter } from '../mapUtils'
 import { asset } from '../base'
 
@@ -43,9 +43,9 @@ export const demographyTheme = {
     return {
       radius: setAgglosRadiusFromExpr(popExpr),
       color: setAgglosColorFromExpr(popExpr),
-      opacity: 0.88,
-      strokeColor: '#fff',
-      strokeOpacity: 0.5,
+      opacity: setAgglosOpacityFromExpr(popExpr),
+      strokeColor: setAgglosColorFromExpr(popExpr),
+      strokeOpacity: 0.7,
     }
   },
 

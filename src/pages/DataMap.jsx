@@ -23,6 +23,7 @@ import { POP_RADIUS_MIN, POP_RADIUS_MAX } from '../config/mapUtils'
 
 const BASE_STYLES = [
   { id: 'base', labelKey: 'pages.dataMap.base' },
+  { id: 'baseLocal', labelKey: 'pages.dataMap.baseLocal' },
   { id: 'light', labelKey: 'pages.dataMap.baseLight' },
   { id: 'dark', labelKey: 'pages.dataMap.baseDark' },
   { id: 'streets', labelKey: 'pages.dataMap.baseStreets' },

@@ -69,7 +69,8 @@ function AfricapolisMap({
     if (!containerRef.current) return
     mapboxgl.accessToken = MAPBOX_TOKEN
 
-    const styleUrl = typeof STYLE_URLS[baseStyle] === 'string' ? STYLE_URLS[baseStyle] : STYLE_URLS.base
+    const raw = STYLE_URLS[baseStyle] ?? STYLE_URLS.base
+    const styleUrl = typeof raw === 'string' ? raw : raw
     const map = new mapboxgl.Map({
       container: containerRef.current,
       style: styleUrl,

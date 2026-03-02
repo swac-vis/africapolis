@@ -150,11 +150,11 @@ export function getCumulativeComparisonColor(year, borderYears) {
   return idx >= 0 ? CUMULATIVE_GRADIENT_COLORS[idx % CUMULATIVE_GRADIENT_COLORS.length] : '#999'
 }
 
-/** 3 colors: small→medium→large (中国色参考 zhongguose.com) */
+/** 3 colors: small→medium→large (Africapolis red-to-yellow – MAPBOX_BASEMAP_STYLE.md) */
 export const colorsByCitySize = [
-  '#8fa4a8',  // small – 蟹壳青
-  '#f0a050',  // medium – 杏黄
-  '#b84a35',  // large – 赭石
+  '#7a2d1e',  // small (< 100k) – dark red (slightly lighter)
+  '#CB5260',  // medium (100k–1M) – coral
+  '#FEECB3',  // large (1M+) – light yellow
 ]
 
 /** Radius: sqrt scale so small bubbles stay small. Max pop in data ~57M (2050). 63.1M aligns with slider step 0.05 */
@@ -162,8 +162,8 @@ export const POP_RADIUS_MIN = 10000
 export const POP_RADIUS_MAX = 63100000
 /** Gradient visual scale: three equal segments (10k–100k, 100k–1M, 1M–10M) */
 export const POP_GRADIENT_MAX = 10000000
-export const RADIUS_MIN = 2
-export const RADIUS_MAX = 18
+export const RADIUS_MIN = 3
+export const RADIUS_MAX = 50
 
 /** Log10 scale for population slider: aligns 100k at ~30%, 1M at ~60% */
 export const POP_LOG_MIN = Math.log10(POP_RADIUS_MIN)

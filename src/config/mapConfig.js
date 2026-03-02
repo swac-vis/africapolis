@@ -5,9 +5,14 @@ export const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_KEY || ''
 
 import africapolisBaseStyle from './africapolisBaseStyle.json'
 
-/** Base map styles – custom; Mapbox light/dark/streets/outdoors; Nightlight; Satellite */
+/** Base map styles – see public/docs/MAPBOX_BASEMAP_STYLE.md
+ *  base: 最基础样式（mkmd base 2015，文档默认）
+ *  baseLocal: 本地 africapolisBaseStyle.json（原 base）
+ *  light/dark/streets/outdoors: Mapbox 官方
+ *  nightlight/satellite: mkmd 2020 */
 export const STYLE_URLS = {
-  base: africapolisBaseStyle,
+  base: 'mapbox://styles/mkmd/ck9eg99c72gwg1imtdbugc9yn',
+  baseLocal: africapolisBaseStyle,
   light: 'mapbox://styles/mapbox/light-v11',
   dark: 'mapbox://styles/mapbox/dark-v11',
   streets: 'mapbox://styles/mapbox/streets-v12',
