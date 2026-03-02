@@ -3,6 +3,7 @@
 import { BORDER_YEARS, getPopExpressionForBorder } from '../mapConfig'
 import { setAgglosColorFromExpr, setAgglosRadiusFromExpr } from '../mapFunctions'
 import { buildMinPopFilter, buildPopulationRangeFilter } from '../mapUtils'
+import { asset } from '../base'
 
 const DEMOGRAPHY_YEARS = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050]
 
@@ -16,7 +17,7 @@ function formatPop(n) {
 export const demographyTheme = {
   id: 'demography',
   labelKey: 'pages.dataMap.themeDemography',
-  icon: '/image/icon/demography.svg',
+  icon: asset('image/icon/demography.svg'),
 
   years: DEMOGRAPHY_YEARS,
   defaultYear: 2020,

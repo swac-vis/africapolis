@@ -2,6 +2,7 @@ import { useEffect, useState, useMemo } from 'react'
 import { useLang } from '../contexts/LangContext'
 import LineChart from '../components/charts/LineChart'
 import BarChart from '../components/charts/BarChart'
+import { asset } from '../config/base'
 
 const YEAR_COLS_FULL = ['1950', '1960', '1970', '1980', '1990', '2000', '2010', '2015', '2020', '2025', '2030', '2035', '2040', '2045', '2050']
 const YEAR_COLS_SHORT = ['2015', '2020']
@@ -45,7 +46,7 @@ export default function Data() {
   const [sortDir, setSortDir] = useState('asc')
 
   useEffect(() => {
-    fetch('/data/statistics/json/africapolis_country.json')
+    fetch(asset('data/statistics/json/africapolis_country.json'))
       .then((r) => r.json())
       .then(setCountryData)
       .catch(() => [])
@@ -134,7 +135,7 @@ export default function Data() {
 
   const handleDownloadJson = (filename) => async () => {
     try {
-      const res = await fetch(`/data/statistics/json/${filename}`)
+      const res = await fetch(asset(`data/statistics/json/${filename}`))
       const blob = await res.blob()
       const url = URL.createObjectURL(blob)
       const a = document.createElement('a')
@@ -144,7 +145,7 @@ export default function Data() {
       URL.revokeObjectURL(url)
     } catch {
       // fallback: open in same tab
-      window.open(`/data/statistics/json/${filename}`, '_self')
+      window.open(asset(`data/statistics/json/${filename}`), '_self')
     }
   }
 
@@ -184,7 +185,7 @@ export default function Data() {
             <p className="data__download-desc">{t('pages.data.countryDataDesc')}</p>
             <div className="data__download-btns">
               <a
-                href="/data/statistics/xlsx/Africapolis_country_2025__wENV.xlsx"
+                href={asset('data/statistics/xlsx/Africapolis_country_2025__wENV.xlsx')}
                 download="Africapolis_country_2025.xlsx"
                 className="data__download-btn"
               >
@@ -205,7 +206,7 @@ export default function Data() {
             <p className="data__download-desc">{t('pages.data.agglomerationDataDesc')}</p>
             <div className="data__download-btns">
               <a
-                href="/data/statistics/xlsx/Africapolis_agglomeration_2025_wENV.xlsx"
+                href={asset('data/statistics/xlsx/Africapolis_agglomeration_2025_wENV.xlsx')}
                 download="Africapolis_agglomeration_2025.xlsx"
                 className="data__download-btn"
               >

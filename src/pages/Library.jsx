@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useLang } from '../contexts/LangContext'
+import { asset } from '../config/base'
 
 export default function Library() {
   const { t, lang } = useLang()
@@ -10,9 +11,9 @@ export default function Library() {
     setLoading(true)
     const suffix = lang === 'en' ? 'en' : 'fr'
     Promise.all([
-      fetch(`/data/text/config/${suffix}_data.json`).then((r) => r.json()),
-      fetch(`/data/text/config/${suffix}_main.json`).then((r) => r.json()),
-      fetch(`/data/text/config/${suffix}_research.json`).then((r) => r.json()),
+      fetch(asset(`data/text/config/${suffix}_data.json`)).then((r) => r.json()),
+      fetch(asset(`data/text/config/${suffix}_main.json`)).then((r) => r.json()),
+      fetch(asset(`data/text/config/${suffix}_research.json`)).then((r) => r.json()),
     ])
       .then(([dataRes, mainRes, researchRes]) => {
         setData({
@@ -39,8 +40,8 @@ export default function Library() {
   const postcards = data.data?.postcard?.list ?? []
   const research = data.research?.dataResearch?.list ?? []
   const dataDrivenStories = data.research?.dataDrivenStories?.list ?? []
-  const postcardImgBase = '/image/library/postcards/'
-  const researchImgBase = '/image/research/'
+  const postcardImgBase = asset('image/library/postcards/')
+  const researchImgBase = asset('image/research/')
 
   return (
     <main className="page page--library">

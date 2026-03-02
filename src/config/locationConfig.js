@@ -1,6 +1,7 @@
 /** Location filter and flyTo config - resolves location name to ISO3 filter and view - MAP_SELECTION_AND_FILTER.md */
 
 import { DEFAULT_CENTER, DEFAULT_ZOOM } from './mapConfig'
+import { asset } from './base'
 import { AFRICA_BOUNDS, getBoundsForCountry, getBoundsForRegion, getBoundsForRegionalEntity, REGIONAL_ENTITY_ISO3 } from './mapUtils'
 
 const C_ID_TO_ISO = {
@@ -55,7 +56,7 @@ let countryDataCache = null
 async function loadCountryData() {
   if (countryDataCache) return countryDataCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_country.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_country.json'))
     const data = await r.json()
     countryDataCache = data.filter((row) => row.ISO && row.AU_Regions && row.AU_Regions !== 'Region' && row.AU_Regions !== 'Regional entities')
     return countryDataCache
@@ -194,7 +195,7 @@ let agglomerationByNameCache = null
 async function loadAgglomerationByNameMap() {
   if (agglomerationByNameCache) return agglomerationByNameCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_agglomeration.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_agglomeration.json'))
     const rows = await r.json()
     const byName = {}
     rows.forEach((row) => {
@@ -222,7 +223,7 @@ let locationStatsCache = null
 async function loadLocationStatsData() {
   if (locationStatsCache) return locationStatsCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_country.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_country.json'))
     const data = await r.json()
     locationStatsCache = data.filter((row) => row.Country && row.AU_Regions !== 'Regional entities')
     return locationStatsCache
@@ -244,7 +245,7 @@ let agglomerationByCountryCache = null
 async function loadAgglomerationByCountry() {
   if (agglomerationByCountryCache) return agglomerationByCountryCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_agglomeration.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_agglomeration.json'))
     const rows = await r.json()
     const byIso = {}
     rows.forEach((row) => {
@@ -277,8 +278,8 @@ export async function getHierarchicalLocationTree(lang) {
 
   const [countryData, enConfig, frConfig, agglosByIso] = await Promise.all([
     loadCountryData(),
-    fetch('/data/text/config/en_countries.json').then((r) => r.json()),
-    fetch('/data/text/config/fr_countries.json').then((r) => r.json()),
+    fetch(asset('data/text/config/en_countries.json')).then((r) => r.json()),
+    fetch(asset('data/text/config/fr_countries.json')).then((r) => r.json()),
     loadAgglomerationByCountry(),
   ])
 

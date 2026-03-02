@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useLang } from '../contexts/LangContext'
+import { asset } from '../config/base'
 
 const MEDIA_SHOW = 8
 const EVENTS_SHOW = 6
@@ -15,7 +16,7 @@ export default function News() {
     setLoading(true)
     setError(null)
     const file = lang === 'en' ? 'en_main.json' : 'fr_main.json'
-    fetch(`/data/text/config/${file}`)
+    fetch(asset(`data/text/config/${file}`))
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load')
         return res.json()
@@ -31,8 +32,8 @@ export default function News() {
   const newsletter = data?.newsletter
   const media = data?.media
   const events = data?.events
-  const imageBase = '/image/about/newsletter/'
-  const eventsImageBase = '/image/events/'
+  const imageBase = asset('image/about/newsletter/')
+  const eventsImageBase = asset('image/events/')
 
   const mediaList = media?.list ?? []
   const displayedMedia = showAllMedia ? mediaList : mediaList.slice(0, MEDIA_SHOW)

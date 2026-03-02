@@ -5,6 +5,7 @@
  */
 
 import { getCountryNameFromISO3 } from './locationConfig'
+import { asset } from './base'
 
 const REGION_KEYS = ['Central Africa', 'East Africa', 'North Africa', 'Southern Africa', 'West Africa']
 const COUNTRY_NAME_ALIASES = {
@@ -33,7 +34,7 @@ let demographyCountryCache = null
 async function loadDemographyCountryData() {
   if (demographyCountryCache) return demographyCountryCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_country.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_country.json'))
     const data = await r.json()
     demographyCountryCache = data.filter((row) => row.Country && row.AU_Regions !== 'Regional entities')
     return demographyCountryCache
@@ -260,7 +261,7 @@ let agglomerationRanksCache = null
 async function loadAgglomerationData() {
   if (agglomerationRanksCache) return agglomerationRanksCache
   try {
-    const r = await fetch('/data/statistics/json/africapolis_agglomeration.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_agglomeration.json'))
     const rows = await r.json()
     const years = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050]
     const byName = {}
@@ -309,7 +310,7 @@ async function getCountryAgglomerationOverview(year, lang) {
   const cacheKey = `${year}_${lang}`
   if (countryAggloOverviewCache?.key === cacheKey) return countryAggloOverviewCache.data
   try {
-    const r = await fetch('/data/statistics/json/africapolis_agglomeration.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_agglomeration.json'))
     const rows = await r.json()
     const y = year
     const popField = `Population_${y}`
@@ -368,7 +369,7 @@ async function loadMaxPopByCountry() {
   if (maxPopByCountryCache && maxPopByCountryCache.maxPop) return maxPopByCountryCache
   maxPopByCountryCache = null // invalidate stale/old format
   try {
-    const r = await fetch('/data/statistics/json/africapolis_agglomeration.json')
+    const r = await fetch(asset('data/statistics/json/africapolis_agglomeration.json'))
     const rows = await r.json()
     const years = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050]
     const maxPop = {}

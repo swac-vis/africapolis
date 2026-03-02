@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useLang } from '../contexts/LangContext'
+import { asset } from '../config/base'
 
 export default function About() {
   const { t, lang } = useLang()
@@ -11,8 +12,8 @@ export default function About() {
     setLoading(true)
     const suffix = lang === 'en' ? 'en' : 'fr'
     Promise.all([
-      fetch(`/data/text/config/${suffix}_about.json`).then((r) => r.json()),
-      fetch(`/data/text/config/${suffix}_data.json`).then((r) => r.json()),
+      fetch(asset(`data/text/config/${suffix}_about.json`)).then((r) => r.json()),
+      fetch(asset(`data/text/config/${suffix}_data.json`)).then((r) => r.json()),
     ])
       .then(([about, data]) => {
         setAboutData(about)
@@ -33,8 +34,8 @@ export default function About() {
 
   const aboutItems = aboutData.about ?? []
   const narratives = aboutData.narratives?.list ?? []
-  const imageBase = '/image/'
-  const aboutImageBase = '/image/about/'
+  const imageBase = asset('image/')
+  const aboutImageBase = asset('image/about/')
 
   const subHeader = aboutData.subHeader?.title || ''
 

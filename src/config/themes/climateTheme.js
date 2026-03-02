@@ -3,13 +3,14 @@
 import { BORDER_YEARS, CLIMATE_YEARS, getPopExpressionForBorder, getClimateIndicatorField } from '../mapConfig'
 import { setAgglosRadiusFromExpr, getClimateColorExpression, getClimateLegendConfig } from '../mapFunctions'
 import { buildMinPopFilter, buildClimateFilter, buildIndicatorRangeFilter, buildPopulationRangeFilter } from '../mapUtils'
+import { asset } from '../base'
 
 export const CLIMATE_INDICATOR_IDS = ['greenSpace', 'elongation', 'sprawl', 'pm25']
 
 export const climateTheme = {
   id: 'climate',
   labelKey: 'pages.dataMap.themeClimate',
-  icon: '/image/icon/env.svg',
+  icon: asset('image/icon/env.svg'),
 
   years: CLIMATE_YEARS,
   defaultYear: 2020,

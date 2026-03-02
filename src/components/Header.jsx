@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { asset } from '../config/base'
 
 export default function Header({ t, onLangToggle, onMenuToggle, mobileMenuOpen }) {
   return (
@@ -14,7 +15,7 @@ export default function Header({ t, onLangToggle, onMenuToggle, mobileMenuOpen }
           <span className="header__menu-icon" />
         </button>
         <Link to="/" className="header__logo">
-          <img src="/image/logo/africapolis_light.svg" alt="Africapolis" />
+          <img src={asset('image/logo/africapolis_light.svg')} alt="Africapolis" />
         </Link>
       </div>
       <div className="header__right">

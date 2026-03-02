@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BASE } from './config/base'
 import { LangProvider, useLang } from './contexts/LangContext'
 import Header from './components/Header'
 import Sidebar from './components/Sidebar'
@@ -57,7 +58,7 @@ function AppContent() {
 
 function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL?.replace(/\/$/, '') || '/'}>
+    <BrowserRouter basename={BASE.replace(/\/$/, '') || '/'}>
       <LangProvider>
         <AppContent />
       </LangProvider>

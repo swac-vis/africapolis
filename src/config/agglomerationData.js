@@ -3,7 +3,9 @@
  * Used for map bubbles (radius, color, popup) when USE_LOCAL_AGGLOS is true.
  */
 
-const AGGLOS_JSON_URL = '/data/statistics/json/africapolis_agglomeration.json'
+import { asset } from './base'
+
+const AGGLOS_JSON_URL = asset('data/statistics/json/africapolis_agglomeration.json')
 
 let geoJsonCache = null
 
