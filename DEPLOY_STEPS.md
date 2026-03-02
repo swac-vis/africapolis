@@ -3,8 +3,7 @@
 From the project root, run these commands in order:
 
 ```bash
-cd /Users/julia/Desktop/OECDSWAC/newWebsite
-
+# From project root
 # 1. Initialize repo (skip if already done)
 git init
 
