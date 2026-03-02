@@ -10,10 +10,6 @@ dist-ssr
 docs/
 public/docs/
 
-# Large GIS files (exceed GitHub 100MB limit)
-*.gpkg
-public/data/statistics/gpkg/
-
 # Environment / secrets
 .env
 .env.*
