@@ -1,0 +1,44 @@
+{
+  "title": "Urban agglomeration network",
+  "url": "urban-agglomeration-network",
+  "list": [
+    {
+      "type": "author",
+      "item": "Author: Rafael Prieto Curiel, Mathematical Institute, University of Oxford | PEAK Urban @rafaelprietoc"
+    },
+    {
+      "type": "image",
+      "url": "network-1"
+    },
+    {
+      "type": "text",
+      "item": "Distance is a physical as well as a socio-economic concept. In general, social links between individuals increase as distance decreases. Similarly, proximity between urban agglomerations is a good indicator of the social, economic, cultural and political interactions between cities and their inhabitants. Agglomerations that are close to one another are more likely to have stronger physical and socio-economic links. Using the geographic co-ordinates of each of the nearly 13,000 urban agglomerations covered by Africapolis, it is possible to connect pairs of cities based on the physical distance between them to show patterns of connectivity and distance."
+    },
+    {
+      "type": "text",
+      "item": "A total of 320,162 pairings are made by connecting all urban agglomerations that are 120 kilometres or less from one another. Although this sounds like a large number, only 1.2% of all potential connections are made at this distance, with strong differences across agglomerations and across clusters of agglomerations. Cairo (Egypt), for example, connects to 551 agglomerations; Lagos (Nigeria) connects to 90 agglomerations and Kinshasa (DR Congo) connects to 15 agglomerations (the 120 km are measured from centre to centre and hence a bias against large urban agglomerations exists)."
+    },
+    {
+      "type": "text",
+      "item": "The map reveals the regions with high-density clusters of urban agglomerations (with a very high number of agglomerations and connections): a North African cluster, a Nile River cluster, a Gulf of Guinea cluster, an Ethiopian Highland cluster, a Great Lakes cluster and a South African cluster. The Gulf of Guinea cluster has 3,908 connected urban agglomerations (including Lagos); the Nile River cluster, with Cairo and Alexandria, has 1,048 connected urban agglomerations. There are also 121 less visible clusters with fewer than five agglomerations each and 82 urban agglomerations (1.1% of the total) have no connections at a distance of 120 kilometres or less (mostly located in the Sahara and Kalahari Deserts)."
+    },
+    {
+      "type": "text",
+      "item": "In countries with large urban populations and more developed urban networks, the relative weight of metropoles tends to be smaller and to decrease. This is the case for instance in Algeria, Egypt, Morocco and Nigeria. Also, countries with large urban populations can have more than one metropole. In South Africa, besides the huge industrial and mining conurbation of Johannesburg, the port cities of Durban and Cape Town are also important metropoles. In Nigeria, the two metropoles besides the former capital Lagos are Abuja and Kano. These metropoles correspond to three major historical settlement areas —Yoruba, Igbo and Haussa —and play a dominant role in the country’s political structure."
+    },
+    {
+      "type": "image",
+      "title": "Map: Urban agglomeration networks connecting each pair of cities located at a distance of 120 kilometres or less.",
+      "figure": "Figure. The Great Lakes network of urban agglomerations (Burundi, Rwanda, Uganda and Tanzania).",
+      "url": "network-2"
+    },
+    {
+      "type": "image",
+      "url": "network-3"
+    },
+    {
+      "type": "text",
+      "item": "If the distance between connected agglomerations is increased to 637 kilometres, we can obtain one single cluster of connected urban agglomerations - every urban agglomeration is connected to the cluster. Six hundred and thirty-seven kilometres is the minimum distance at which all urban agglomerations on the continent are connected to one network. The average distance between every possible pair of urban agglomerations is more than 3,000 kilometres. Therefore, even at a distance of 637 kilometres, there is only a 0.077 probability that two agglomerations connect directly with one another. At this distance, Lagos or Cairo connect (pair with) to more than one thousand agglomerations, while Luanda (Angola) is connected to only 117 agglomerations."
+    }
+  ]
+}

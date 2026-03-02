@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Docs (do not commit)
+docs/
+public/docs/
+
+# Large GIS files (exceed GitHub 100MB limit)
+*.gpkg
+public/data/statistics/gpkg/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

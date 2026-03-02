@@ -1,0 +1,37 @@
+{
+  "title": "DEFINING URBAN",
+  "url": "defining-urban",
+  "list": [
+    {
+      "type": "image",
+      "url": "defining-1"
+    },
+    {
+      "type": "text",
+      "subtitle": "No internationally accepted definition of urban",
+      "item": "There is no universal (or even generally accepted) definition of cities or urban agglomerations. The word city most commonly refers to a politico-administrative unit whose boundaries and legal status are defined by national governments according to varying administrative, political and/or functional criteria, contexts and objectives. "
+    },
+    {
+      "type": "text",
+      "item": "The notion of “urban” is often conflated with meaning “city”. Definitions vary from country to country and in some cases, over time within the same country. These differences are mirrored in the data collected and are often reproduced in international comparisons. The heterogeneity of the data provided by national statistics presents a problem for comparing and analysing urbanisation across countries – a problem identified in the 1929 edition of the Encyclopedia Britannica: “The census returns of most countries classify the population into urban and rural, but while these figures are useful for comparing changes in the same country between two dates, they are of little use when comparing two countries. This is so because the classification is based upon very different methods in different countries."
+    },
+    {
+      "type": "text",
+      "item": "Most definitions are based on administrative, numerical and functional criteria, or a combination of all three. In African countries, the most widely used criteria is administrative (25 countries), followed by mixed (15 countries) and numerical (13 countries, ranging from 1,500 to 30,000 inhabitants). However, in all countries definitions of a city specify administrative units. The boundaries of the administrative units are precise and fixed. However, in reality, cities are alive. They evolve, develop and grow – often beyond the original administrative boundaries of a city."
+    },
+    {
+      "type": "image",
+      "url": "defining-2"
+    },
+    {
+      "type": "text",
+      "subtitle": "Africapolis - A standardised spatial definition of urban",
+      "item": "Africapolis, the continental version of the global e-Geopolis initiative, is designed to enable comparative and long-term analyses of urbanisation dynamics in Africa. Africapolis is based on a spatial approach and applies a physical criteria – a continuously built-up area - and a demographic criteria – more than 10,000 inhabitants - to define an urban agglomeration. An urban unit is defined by combining satellite and aerial imagery, official demographic data such as censuses and other cartographic sources. Unlike cities whose boundaries are fixed, the urban agglomerations defined by Africapolis are units whose exact shape, contents and boundaries vary over time, and function and evolution of the built environment. How is it done? The first step consists of detecting continuously built-up areas from satellite images (and aerial images for past data). Africapolis defines a continuous built-up area as an area with less than 200 metres between buildings and constructions. Buildings can be residential, industrial and administrative and can also include infrastructure such as roads, bridges and ports. The boundaries of the identified area are then overlayed with a map of the smallest officially defined local administrative units in the country. These local administrative units are the base that are informed by national statistics, in particular population censuses. The populations of all local administrative units that are covered by at least 50% of the identified continuously built-up area is added up and counted as the population of the urban agglomeration. The minimum population threshold used by Africapolis to consider an agglomeration as urban is 10,000 inhabitants. The agglomeration takes the name of the local administrative unit that is highest in the administrative hierarchy and/or population. The 13,000 urban agglomerations identified by Africapolis will, in many cases, overlap with the city - as defined by national authorities – however, the notion of urban agglomeration is more inclusive and flexible. The example of Maputo-Matola in Mozambique highlights the overlap and the difference between cities and urban agglomerations. Officially, Maputo and Matola are both defined as urban, but treated as separate cities and at the same time several neighbouring local administrative units are officially rural but completely or partially covered by the built-up area of the Maputo agglomeration. The Africapolis definition is clearly not suited to all contexts and objectives, nor does it contesting official definitions. Yet, it provides comparable and verifiable data based on a common understanding of urban areas, using a physical criteria recommended by the United Nations and used in several countries, that allows to compare and better understand urbanisation dynamics and to assess urban policies in Africa."
+    },
+    {
+      "type": "text",
+      "subtitle": "From observation on the ground to data for urban policies",
+      "item": "The daily reality of the residents of Matola does not depend so much on the legal definition chosen to describe their agglomeration; they know they live in the same agglomeration with no visible boundaries to indicate where one city ends and the other begins. In many ways, Africapolis provides a definition of urban agglomerations that is closer to peoples’ reality and hence that of urban areas and cities – an interconnection and flow of people, ideas and activities. Also, by focusing on the built environment, Africapolis helps detect some of the main drivers of urban growth in Africa, the emergence of hundreds of small towns and the growth of built-up areas driving the emergence of large agglomerations through the absorption of smaller settlements, merging and densification (in-situ urbanisation). The Africapolis database is aimed for researchers, academics, policy makers and urban planners to help generate an evidence base for urbanisation dynamics and to contribute to making urban areas more inclusive, productive and sustainable."
+    }
+  ]
+}

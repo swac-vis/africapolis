@@ -1,0 +1,30 @@
+{
+  "title": "Distance aux métropoles nationales",
+  "url": "defining-urban",
+  "list": [
+    {
+      "type": "image",
+      "url": "metropole-1"
+    },
+    {
+      "type": "text",
+      "item": "Africapolis identifie 67 métropoles nationales, correspondant à un tiers de la population urbaine totale du continent (183 millions). La hiérarchie des systèmes urbains nationaux est caractérisée par la grande taille des métropoles par rapport aux villes secondaires et un indice de primatie plus élevé que dans le reste du monde. La carte illustre la distance entre toutes les agglomérations urbaines et l'une des métropoles nationales africaines."
+    },
+    {
+      "type": "text",
+      "item": "Tous les réseaux urbains des pays africains sont dominés par au moins une métropole. En Angola, la population de la capitale Luanda (7 millions) équivaut à la population combinée des 27 plus grandes agglomérations suivantes. Au Soudan, Khartoum compte autant d’habitants (5.3 millions) que l’ensemble des 248 plus petites villes du pays (sur un total de 301). Ces métropoles, dans certains pays deux (Burkina Faso, Congo, Ghana) ou trois agglomérations (Afrique du Sud), dominent les hiérarchies urbaines nationales. Leur taille exceptionnelle reflète leur position dominante politique et économique et leur rôle d’interface entre les échelles nationale et globale. "
+    },
+    {
+      "type": "text",
+      "item": "En moyenne, les 67 métropoles nationales comptent pour 51% de la population urbaine nationale totale de leur pays. Dans 10 pays, cette part excède 66 % et plus de 80 % au Cabo Verde, Sao Tomé-et-Principe, Eswatini et Djibouti. La concentration métropolitaine tend à être plus élevée dans les pays de faible superficie avec une faible population et/ou de faibles niveaux d’urbanisation. Le Soudan du Sud représente une exception avec la part la plus basse de population métropolitaine en Afrique (11 %). Le pays ayant acquis son indépendance seulement en 2008 et la situation politique restant fragile, ceci ne permet pas encore à Juba d’acquérir une position dominante dans le système urbain."
+    },
+    {
+      "type": "text",
+      "item": "Dans les pays avec des larges populations urbaines et des réseaux urbains plus développés, le poids relatif des métropoles a tendance à baisser. Ceci s’observe par exemple en Algérie, au Maroc, en Égypte et au Nigéria. De même, les pays avec de grandes populations urbaines peuvent avoir plus d’une métropole. En Afrique du Sud, en plus de l’immense conurbation minière et industrielle de Johannesbourg, les villes portuaires de Durban et du Cap sont des métropoles importantes. Au Nigéria, Onitsha et Kano sont les deux autres métropoles en plus de la capitale Lagos. Elles correspondent à trois aires de peuplement historiques - Yoruba, Ibo et Haussa - et jouent un rôle dominant dans la structure politique du pays."
+    },
+    {
+      "type": "text",
+      "item": "En Afrique, les agglomérations de 300 000 à 1 million d'habitants représentent seulement 13% de la population, contre 17% pour les agglomérations métropolitaines. La dominance des métropoles nationales combinée à la multiplication des petites villes conduit à la relative faiblesse des villes intermédiaires, visible au niveau de la hiérarchie du système urbain. La stabilité de la croissance des métropoles contraste avec l’évolution plus irrégulière de la population des agglomérations intermédiaires. Sur le long terme, et même sur une durée aussi courte que la période post indépendance, la trajectoire de la croissance démographique des agglomérations métropolitaines se caractérise par sa persistance et sa relative régularité. Cependant, la population combinée des agglomérations intermédiaires croît plus vite que celle des métropoles nationales. Ceci est dû au fait que leur nombre croît plus vite : les quatre cinquièmes des agglomérations identifiées en 2015 correspondent à des lieux encore inhabités en 1960 ou des villages. L’une des conséquences de ces développements est que la principale discontinuité du peuplement africain actuel est non entre « urbain » et « rural », mais bien entre métropoles et agglomérations urbaines intermédiaires. L’immense majorité des études sur l’urbanisation mettent en avant les grandes villes, dont les chiffres de population sont les plus – voire les seuls – accessibles. Les agglomérations de 500 000 habitants sont alors considérées comme de « petites villes », alors qu’elles se classent les 2 % les plus hauts de la distribution dans la base de données Africapolis. La distinction entre agglomérations « métropolitaines » et « intermédiaires » et leur documentation est cruciale pour les stratégies et politiques urbaines et pour la mise en œuvre d’un aménagement du territoire adapté."
+    }
+  ]
+}

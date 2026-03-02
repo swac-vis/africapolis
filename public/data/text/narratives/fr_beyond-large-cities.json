@@ -1,0 +1,42 @@
+{
+  "title": "AU-DELÀ DES GRANDES VILLES",
+  "url": "beyond-large-cities",
+  "list": [
+    {
+      "type": "image",
+      "url": "beyond-1"
+    },
+    {
+      "type": "text",
+      "subtitle": "Peu de grandes villes, beaucoup de petites villes",
+      "item": "En Afrique, comme à travers le monde, il n'existe que peu de grandes villes mais un grand nombre de petites villes. L'Afrique compte 11 zones urbaines de plus de 5 millions d'habitants, dont la population totale atteint 95 millions d'habitants. Le continent compte aussi 6 740 petites agglomérations de moins de 100 000 habitants, qui rassemblent 180 millions d'habitants. Malgré leur taille combinée importante, ces petites agglomérations sont absentes de la plupart des bases de données, et peu d'informations sur leur nombre, leur taille et leur localisation sont disponibles. L'accent mis sur les grandes villes a faussé la perception des villes africaines et la compréhension des dynamiques d'urbanisation du continent. L'émergence continue d'agglomérations urbaines est en effet un facteur important, mais souvent négligé, de l'urbanisation en Afrique. À titre d’illustration, le nombre d'agglomérations comptant entre 10 000 et 100 000 habitants est passé de 4 770 en 2000 à 6 740 en 2015.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "L'accent mis sur les grandes villes a faussé la perception des villes africaines et la compréhension des dynamiques d'urbanisation du continent. L'émergence continue d'agglomérations urbaines est en effet un facteur important, mais souvent négligé, de l'urbanisation en Afrique. À titre d’illustration, le nombre d'agglomérations comptant entre 10 000 et 100 000 habitants est passé de 4 770 en 2000 à 6 740 en 2015.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "La méthodologie unique d’Africapolis permet l’intégration de milliers de petites villes et agglomérations où vivent des millions d’Africains. La combinaison de la détection des zones construites à partir d'images satellitaires et de sources démographiques permet d'identifier ces nouvelles agglomérations, dont l'existence est parfois ignorée par les statistiques nationales.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "image",
+      "url": "beyond-2"
+    },
+    {
+      "type": "text",
+      "subtitle": "Urbanisation ascendante : formation et croissance des petites agglomérations urbaines",
+      "item": "Le nombre d'agglomérations a augmenté dans la plupart des pays africains au cours des dernières décennies, cependant l'ampleur, la rapidité et les caractéristiques de ce processus varient d'un pays et d'une région à l'autre. La majorité des nouvelles agglomérations apparaissent dans des zones à forte densité de population rurale et à proximité de grandes zones métropolitaines. La croissance naturelle des foyers de peuplement rural est l’un des principaux facteurs de l’augmentation du nombre d’agglomérations urbaines. Cette urbanisation in situ est liée à la croissance démographique des foyers de peuplement rural, qui a progressivement conduit à la reclassification des zones rurales en zones urbaines, une fois le seuil des 10 000 habitants atteint. Cette forme d’émergence d’agglomérations urbaines est plus courante dans les régions où les foyers de peuplement sont regroupés, par exemple dans les zones de climat sec et de savane. Les régions où les foyers de peuplement sont dispersés ou éparpillés produisent des formes d’urbanisation diverses. Dans les zones de peuplement rural dispersé, les populations sont localisées de façon plus linéaire, en fonction du terrain physique ou culturel (rivières, vallées, routes…). La croissance démographique entraîne alors une extension linéaire des foyers de peuplement, ce qui a pour conséquence la fusion et l’absorption de foyers ruraux séparés, puis la formation d’une zone bâtie en continue dont la population combine dépasse les 10 000 habitants. Cette forme d’émergence est plus courante dans les forêts et les régions montagneuses d’Afrique, notamment au Kenya, au Nigéria, au Rwanda et en Ouganda. L’émergence de nouvelles agglomérations se poursuivra, de même que la croissance des petites agglomérations d’aujourd’hui.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "subtitle": "Petites villes, zones rurales et urbanisation",
+      "item": "Les petites agglomérations constituent une composante importante des systèmes urbains. En effet, 125 millions d’Africains vivent dans des agglomérations de moins de 50 000 habitants. Les petites agglomérations sont également le principal lien entre les zones rurales et urbaines. Pour beaucoup de ruraux, ces endroits sont les points d'accès aux marchés, aux services de santé et autres services publics, aux opportunités d'emploi et à l'information. Il est donc essentiel d’inclure les petites agglomérations dans la planification urbaine et l’élaboration des politiques pour rendre les dynamiques d’urbanisation en Afrique plus inclusives et durables. Africapolis est la seule base de données internationale à inclure systématiquement les petites agglomérations de plus de 10 000 habitants, fournissant ainsi des informations uniques sur ces zones. À titre de comparaison, les Perspectives de l'urbanisation mondiale des Nations Unies fournissent des estimations de la population de 221 agglomérations en Afrique, ne couvrant que les villes de plus de 300 000 habitants. Africapolis couvre 13 000 agglomérations, dont 97 % de moins de 300 000 habitants. Ces données sont essentielles pour une meilleure compréhension des dynamiques d'urbanisation sur le terrain et des liens entre zones rurales et urbaines.",
+      "links": [{ "match": "__any word", "link": "" }]
+    }
+  ]
+}

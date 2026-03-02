@@ -1,0 +1,40 @@
+{
+  "title": "Réseaux d’agglomérations urbaines",
+  "url": "urban-agglomeration-network",
+  "list": [
+    {
+      "type": "author",
+      "item": "Author: Rafael Prieto Curiel, Mathematical Institute, University of Oxford | PEAK Urban @rafaelprietoc"
+    },
+    {
+      "type": "image",
+      "url": "network-1"
+    },
+    {
+      "type": "text",
+      "item": "La distance est une notion physique et socio-économique. Les liens sociaux entre les individus se renforcent à mesure que la distance diminue. De même, la proximité entre les agglomérations urbaines est un bon indicateur des interactions sociales, économiques, culturelles et politiques entre les villes et leurs habitants. Les agglomérations proches l’une de l’autre sont plus susceptibles d’avoir des liens physiques et socio-économiques étroits. À partir des coordonnées géographiques de chacune des presque 7 500 agglomérations urbaines couvertes par Africapolis, il est possible de relier deux villes en fonction de leur distance physique et d’identifier des schémas de connectivités."
+    },
+    {
+      "type": "text",
+      "item": "320 162 « villes-couplées » sont obtenues en reliant toutes les agglomérations urbaines distantes d’au maximum 120 kilomètres. Bien que ce nombre semble élevé, il ne représente que 1.2 % de l’ensemble des connexions possibles, avec des différences importantes entre les agglomérations et les « clusters » d’agglomérations. Le Caire (Égypte), est par exemple, connectée à 551 agglomérations, Lagos (Nigéria) à 90 et Kinshasa (RDC) à 15 (les 120 km sont mesurés d’un centre à l’autre, de sorte qu’il existe un biais défavorable aux grandes agglomérations)."
+    },
+    {
+      "type": "text",
+      "item": "La carte montre des régions de « clusters » d’agglomérations urbaines très denses (nombreuses et très connectées): en Afrique du Nord, le long du Nil, dans le golfe de Guinée, dans les hauts plateaux d’Éthiopie, dans la région des Grands lacs et en Afrique du Sud. Celui du Golfe de Guinée compte 3 908 agglomérations urbaines (dont Lagos) ; celui du Nil, qui englobe le Caire et Alexandrie, 1 048. Par ailleurs, 121 réseaux moins visibles ne rassemblent que cinq agglomérations, tandis que 82 agglomérations (1.1 % du total) ne sont reliées à aucune autre à une distance de 120 kilomètres ou moins (elles se trouvent pour la plupart dans les déserts du Sahara et du Kalahari)."
+    },
+    {
+      "type": "image",
+      "title": "Map: Urban agglomeration networks connecting each pair of cities located at a distance of 120 kilometres or less.",
+      "figure": "Figure. The Great Lakes network of urban agglomerations (Burundi, Rwanda, Uganda and Tanzania).",
+      "url": "network-2"
+    },
+    {
+      "type": "image",
+      "url": "network-3"
+    },
+    {
+      "type": "text",
+      "item": "Si la distance entre les agglomérations est portée à 637 kilomètres, on obtient un unique « cluster ». C’est la distance minimale où toutes les agglomérations urbaines africaines forment un réseau unique. La distance moyenne entre deux agglomérations est supérieure à 3 000 kilomètres. Ainsi, même à une distance de 637 kilomètres, la probabilité que deux agglomérations soient directement connectées n’est que de 0.077. À cette distance, Lagos comme le Caire sont couplées à plus d’un millier d’agglomérations tandis que Luanda (Angola) ne l’est qu’à 117 agglomérations."
+    }
+  ]
+}

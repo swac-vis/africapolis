@@ -1,0 +1,241 @@
+{
+  "header": "Data",
+  "subHeader": {
+    "type": "modalText",
+    "title": "About the data",
+    "text": "Africapolis data is based on a large inventory of housing and population censuses, electoral registers and other official population sources.",
+    "content": {
+      "title": "Data",
+      "type": "text",
+      "list": [
+        {
+          "item": "Africapolis has been designed to provide a much needed standardised and geospatial database on urbanisation dynamics in Africa, with the aim of making urban data in Africa comparable across countries and across time. This version of Africapolis is the first time that the data for the 54 countries currently covered are available for the same base year — 2015. In addition, Africapolis closes one major data gap by integrating 7,496 small towns and intermediary cities between 10,000 and 300,000 inhabitants."
+        },
+        {
+          "item": "Africapolis data is based on a large inventory of housing and population censuses, electoral registers and other official population sources, in some cases dating back to the beginning of the 20th century. While essential for building any database, the regularity, the detail and the reliability of these sources vary from country to country, and from period to period. Census data or official population records are often more than 10 years old and, in certain cases, go back 30 or more years. Given the pace of demographic and urban change these are significant periods."
+        },
+        {
+          "item": "Satellite and aerial images are then used to fill in and complete the gaps and inconsistencies in official records, by capturing the physical evidence on the ground, that is the built-up area and the precise location of settlements. Other official cartographic resources, such as administrative boundaries, are also used to link population data to observed information on the built-up areas."
+        },
+        {
+          "item": "The teams working on Africapolis, at e-Geopolis and at the OECD Sahel and West Africa Club, have worked for years to build the Africapolis database, learning during the process, adding new sources and improving on the tools and methodology used to make the data as precise as possible."
+        },
+        {
+          "item": "Africapolis will remain an ongoing endeavour, providing data and evidence to support cities and governments to make urban areas more inclusive, productive and sustainable. We will keep looking for new ways, new tools and new data to improve Africapolis and its relevance for the African continent and invite you to contribute."
+        }
+      ]
+    }
+  },
+  "menu": [
+    { "value": "browser", "label": "Data browser" },
+    { "value": "table", "label": "Data tables" },
+    { "value": "download", "label": "Download" },
+    { "value": "library", "label": "Maps library" },
+    { "value": "about", "label": "About" }
+  ],
+  "postcard": {
+    "title": "Postcards",
+    "url": "about",
+    "list": [
+      {
+        "id": 1,
+        "image": "EN_ECOWAS.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_ECOWAS.pdf",
+        "title": "EN_ECOWAS.pdf",
+        "subTitle": "EN_ECOWAS.pdf",
+        "description": "EN_ECOWAS.pdf"
+      },
+      {
+        "id": 2,
+        "image": "EN_UEMOA.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_UEMOA.pdf",
+        "title": "EN_UEMOA.pdf",
+        "subTitle": "EN_UEMOA.pdf",
+        "description": "EN_UEMOA.pdf"
+      },
+      {
+        "id": 3,
+        "image": "EN_Benin.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Benin.pdf",
+        "title": "EN_Benin.pdf",
+        "subTitle": "EN_Benin.pdf",
+        "description": "EN_Benin.pdf"
+      },
+      {
+        "id": 4,
+        "image": "EN_BurkinaFaso.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_BurkinaFaso.pdf",
+        "title": "EN_BurkinaFaso.pdf",
+        "subTitle": "EN_BurkinaFaso.pdf",
+        "description": "EN_BurkinaFaso.pdf"
+      },
+      {
+        "id": 5,
+        "image": "EN_CaboVerde.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_CaboVerde.pdf",
+        "title": "EN_CaboVerde.pdf",
+        "subTitle": "EN_CaboVerde.pdf",
+        "description": "EN_CaboVerde.pdf"
+      },
+      {
+        "id": 6,
+        "image": "EN_Chad.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Chad.pdf",
+        "title": "EN_Chad.pdf",
+        "subTitle": "EN_Chad.pdf",
+        "description": "EN_Chad.pdf"
+      },
+      {
+        "id": 7,
+        "image": "EN_Coted'ivoire.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Coted'ivoire.pdf",
+        "title": "EN_Coted'ivoire.pdf",
+        "subTitle": "EN_Coted'ivoire.pdf",
+        "description": "EN_Coted'ivoire.pdf"
+      },
+      {
+        "id": 8,
+        "image": "EN_Gambia.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Gambia.pdf",
+        "title": "EN_Gambia.pdf",
+        "subTitle": "EN_Gambia.pdf",
+        "description": "EN_Gambia.pdf"
+      },
+      {
+        "id": 9,
+        "image": "EN_Ghana.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Ghana.pdf",
+        "title": "EN_Ghana.pdf",
+        "subTitle": "EN_Ghana.pdf",
+        "description": "EN_Ghana.pdf"
+      },
+      {
+        "id": 10,
+        "image": "EN_Guinea.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Guinea.pdf",
+        "title": "EN_Guinea.pdf",
+        "subTitle": "EN_Guinea.pdf",
+        "description": "EN_Guinea.pdf"
+      },
+      {
+        "id": 11,
+        "image": "EN_GuineaBissau.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_GuineaBissau.pdf",
+        "title": "EN_GuineaBissau.pdf",
+        "subTitle": "EN_GuineaBissau.pdf",
+        "description": "EN_GuineaBissau.pdf"
+      },
+      {
+        "id": 12,
+        "image": "EN_Liberia.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Liberia.pdf",
+        "title": "EN_Liberia.pdf",
+        "subTitle": "EN_Liberia.pdf",
+        "description": "EN_Liberia.pdf"
+      },
+      {
+        "id": 13,
+        "image": "EN_Mali.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Mali.pdf",
+        "title": "EN_Mali.pdf",
+        "subTitle": "EN_Mali.pdf",
+        "description": "EN_Mali.pdf"
+      },
+      {
+        "id": 14,
+        "image": "EN_Mauritania.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Mauritania.pdf",
+        "title": "EN_Mauritania.pdf",
+        "subTitle": "EN_Mauritania.pdf",
+        "description": "EN_Mauritania.pdf"
+      },
+      {
+        "id": 15,
+        "image": "EN_Niger.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Niger.pdf",
+        "title": "EN_Niger.pdf",
+        "subTitle": "EN_Niger.pdf",
+        "description": "EN_Niger.pdf"
+      },
+      {
+        "id": 16,
+        "image": "EN_Nigeria.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Nigeria.pdf",
+        "title": "EN_Nigeria.pdf",
+        "subTitle": "EN_Nigeria.pdf",
+        "description": "EN_Nigeria.pdf"
+      },
+      {
+        "id": 17,
+        "image": "EN_Senegal.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Senegal.pdf",
+        "title": "EN_Senegal.pdf",
+        "subTitle": "EN_Senegal.pdf",
+        "description": "EN_Senegal.pdf"
+      },
+      {
+        "id": 18,
+        "image": "EN_SierraLeone.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_SierraLeone.pdf",
+        "title": "EN_SierraLeone.pdf",
+        "subTitle": "EN_SierraLeone.pdf",
+        "description": "EN_SierraLeone.pdf"
+      },
+      {
+        "id": 19,
+        "image": "EN_Togo.jpg",
+        "url": "https://africapolis.org/download/postcards/EN/EN_Togo.pdf",
+        "title": "EN_Togo.pdf",
+        "subTitle": "EN_Togo.pdf",
+        "description": "EN_Togo.pdf"
+      }
+    ]
+  },
+  "brochures": {
+    "title": "Brochures",
+    "url": "about",
+    "list": [
+      {
+        "id": 1,
+        "image": "Flyer_EN_NEW.jpg",
+        "url": "https://africapolis.org/download/FLYER_EN_NEW.pdf",
+        "title": "Urbanisation dynamics",
+        "subTitle": "Urbanisation dynamics",
+        "description": "Urbanisation dynamics"
+      },
+      {
+        "id": 2,
+        "image": "Poster1-EN.jpg",
+        "url": "https://africapolis.org/download/Poster1-EN.pdf",
+        "title": "Africapolis",
+        "subTitle": "Africapolis",
+        "description": "Africapolis"
+      },
+      {
+        "id": 3,
+        "image": "Poster2-EN.jpg",
+        "url": "https://africapolis.org/download/Poster2-EN.pdf",
+        "title": "Distance from Metropole",
+        "subTitle": "Distance from Metropole",
+        "description": "Distance from Metropole"
+      },
+      {
+        "id": 4,
+        "image": "Poster3-EN.jpg",
+        "url": "https://africapolis.org/download/Poster3-EN.pdf",
+        "title": "Africa's Border Agglomerations",
+        "subTitle": "Africa's Border Agglomerations",
+        "description": "Africa's Border Agglomerations"
+      },
+      {
+        "id": 5,
+        "image": "Poster4-EN.jpg",
+        "url": "https://africapolis.org/download/Poster4-EN.pdf",
+        "title": "Leasted Connected Urban areas",
+        "subTitle": "Leasted Connected Urban areas",
+        "description": "Leasted Connected Urban areas"
+      }
+      
+    ]
+  }
+}

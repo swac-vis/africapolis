@@ -1,0 +1,795 @@
+{
+  "header": "Visualise urbanisation in Africa",
+  "subHeader": "Africapolis is a research and data visualisation tool used to map, analyse and understand urbanisation and urban growth in Africa",
+  "africapolis": {
+    "title": "Find out more about Africapolis",
+    "url": "about",
+    "list": [
+      {
+        "id": 1,
+        "type": "article",
+        "url": "about/defining-urban",
+        "title": "A new approach to defining urban.",
+        "subTitle": "Defining urban",
+        "description": "Starting from the ground up Africapolis adopts a systematic and consistent definition of urban. By combining demographic sources, satellite and aerial imagery, Africapolis enables comparative and long-term analyses of urban dynamics. It covers all 13,000 urban agglomerations with more than 10,000 inhabitants in 54 African countries. "
+      },
+      {
+        "id": 2,
+        "type": "article",
+        "url": "about/urbanisation-dynamics-and-drivers",
+        "title": "Mapping a new urban reality.",
+        "subTitle": "Urbanisation dynamics and drivers",
+        "description": "In 2015, more than 50% of Africans lived in urban agglomerations. Cities, urban planning and management are key to delivering on the SDGs and a New Urban Agenda. Africapolis data and evidence supports cities and governments to make urban areas more inclusive, productive and sustainable."
+      },
+      {
+        "id": 3,
+        "type": "article",
+        "url": "about/beyond-large-cities",
+        "title": "Understanding what drives urbanisation in Africa today.",
+        "subtitle": "Beyond large cities",
+        "description": "Africa has the fastest urban growth in the world. By 2050, Africa's urban areas will be home to an additional 950 million people. Capturing how this growth is changing the size, structure and functional features of urban networks is key for managing and planning future trends."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "url": "about",
+    "list": [
+      {
+        "id": 11,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://us4.campaign-archive.com/?e=__test_email__&u=5aa4680998eddebe5f4ce7065&id=08c0786eaf",
+        "title": "November Newsletter (10)",
+        "subTitle": "November Newsletter (10)",
+        "description": "A look back at Urban October"
+      },
+      {
+        "id": 10,
+        "image": "October_Newsletter_09_EN.png",
+        "url": "https://mailchi.mp/oecd.org/africas-urbanisation-dynamics-2024-planning-for-urban-expansion-17361734?e=f36cd2b3d9",
+        "title": "October Newsletter (09)",
+        "subTitle": "October Newsletter (09)",
+        "description": "WEBINAR 3 - Rethinking housing policies to make room for 700 million new urbanites in Africa"
+      },
+      {
+        "id": 9,
+        "image": "June_Newsletter_08.png",
+        "url": "https://mailchi.mp/oecd.org/africas-urbanisation-dynamics-2024-planning-for-urban-expansion-17361265?e=8a08e9ea17",
+        "title": "June Newsletter (08)",
+        "subTitle": "June Newsletter (08)",
+        "description": "WEBINAR 2 - Sustainable urbanisation in Africa: Unlocking investment and mobilising sustainable finance"
+      },
+      {
+        "id": 8,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://mailchi.mp/oecd.org/africas-urbanisation-dynamics-2024-planning-for-urban-expansion-17361023?e=8a08e9ea17",
+        "title": "May Newsletter (07)",
+        "subTitle": "May Newsletter (07)",
+        "description": "WEBINAR 1 - Unlocking land access: New approaches for expanding cities"
+      },
+      {
+        "id": 7,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://mailchi.mp/oecd.org/africas-urbanisation-dynamics-2024-planning-for-urban-expansion-17360536?e=8a08e9ea17",
+        "title": "February Newsletter (06)",
+        "subTitle": "February Newsletter (06)",
+        "description": "Virtual Launch: Africa's Urbanisation Dynamics 2025"
+      },
+      {
+        "id": 6,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://mailchi.mp/oecd.org/africas-urbanisation-dynamics-2024-planning-for-urban-expansion?e=[UNIQID]",
+        "title": "November Newsletter (05)",
+        "subTitle": "November Newsletter (05)",
+        "description": "Africapolis projections 2050: A snapshot of some key findings"
+      },
+      {
+        "id": 5,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "http://mailchi.mp/oecd.org/africapolisnewsletter04",
+        "title": "July Newsletter (04)",
+        "subTitle": "July Newsletter (04)",
+        "description": "Recap of the 2023 Africapolis launch event"
+      },
+      {
+        "id": 4,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://mailchi.mp/oecd.org/africapolisnewsletter03",
+        "title": "June Newsletter (03)",
+        "subTitle": "June Newsletter (03)",
+        "description": "June Special Edition - Upcoming 2023 Africapolis data release"
+      },
+      {
+        "id": 3,
+        "image": "LaunchAfricapolis2023_EN.jpeg",
+        "url": "https://africapolis.org/download/AgendaAfricapolisLaunchJune21stEN.pdf",
+        "title": "Conference Agenda - 21 June 2023",
+        "subTitle": "Conference Agenda - 21 June 2023",
+        "description": "Launch of the Africapolis 2023 Revision and Update"
+      },
+      {
+        "id": 2,
+        "image": "May_Newsletter_01_EN.jpeg",
+        "url": "http://mailchi.mp/oecd.org/africapolisnewsletter02",
+        "title": "May Newsletter (02)",
+        "subTitle": "May Newsletter (02)",
+        "description": "Launch conference - 2023 revision and update"
+      },
+      {
+        "id": 1,
+        "image": "April_Newsletter_01_EN.jpg",
+        "url": "https://us4.campaign-archive.com/?u=5aa4680998eddebe5f4ce7065&id=06cbf2e1ea",
+        "title": "April Newsletter (01)",
+        "subTitle": "April Newsletter (01)",
+        "description": "Welcome to Africapolis: Our First Newsletter"
+      }
+    ]
+  },
+  "narratives": {
+    "title": "What is Africapolis",
+    "url": "about",
+    "list": [
+      {
+        "id": 1,
+        "type": "article",
+        "image": "informing-policies",
+        "url": "about/informing-policies",
+        "title": "Mapping a new urban reality.",
+        "subTitle": "Informing policies for Africa's urban future",
+        "description": "In 2015, more than 50% of Africans lived in urban agglomerations. Cities, urban planning and management are key to delivering on the SDGs and a New Urban Agenda. Africapolis data and evidence supports cities and governments to make urban areas more inclusive, productive and sustainable."
+      },
+      {
+        "id": 2,
+        "type": "article",
+        "image": "defining-urban-small",
+        "url": "about/defining-urban",
+        "title": "A new approach to defining urban.",
+        "subTitle": "Defining urban",
+        "description": "Starting from the ground up Africapolis adopts a systematic and consistent definition of urban. By combining demographic sources, satellite and aerial imagery, Africapolis enables comparative and long-term analyses of urban dynamics. It covers all 13,000 urban agglomerations with more than 10,000 inhabitants in 54 African countries. "
+      },
+      {
+        "id": 3,
+        "type": "article",
+        "image": "urbanisation-dynamics-and-drivers",
+        "url": "about/urbanisation-dynamics-and-drivers",
+        "title": "Understanding what drives urbanisation in Africa today. ",
+        "subTitle": "Urbanisation dynamics and drivers",
+        "description": "Africa has the fastest urban growth in the world. By 2050, Africa's urban areas will be home to an additional 950 million people. Capturing how this growth is changing the size, structure and functional features of urban networks is key for managing and planning future trends."
+      },
+      {
+        "id": 4,
+        "type": "article",
+        "image": "beyond-large-cities",
+        "url": "about/beyond-large-cities",
+        "title": "There are only few big cities but many small ones.",
+        "subTitle": "Beyond large cities",
+        "description": "In Africa, as elsewhere, there are only few big cities but many small ones. The continent has 11 urban areas with more than five million inhabitants and more than 7,500 secondary cities with fewer than 500,000 inhabitants. Yet, many of these urban agglomerations are absent from most international databases."
+      }
+    ]
+  },
+  "research": {
+    "title": "Data driven stories",
+    "url": "research",
+    "list": [
+      {
+        "id": 1,
+        "type": "article",
+        "image": "urban_agglomeration_network",
+        "url": "research/urban-agglomeration-network",
+        "title": "Urban agglomeration network",
+        "subTitle": "Distance is a physical as well as a socio-economic concept.",
+        "description": "A total of 320,162 pairings are made by connecting all urban agglomerations that are 120 kilometres or less from one another."
+      },
+      {
+        "id": 2,
+        "type": "article",
+        "image": "cross_border_agglomerations",
+        "url": "research/cross-border-agglomerations",
+        "title": "Cross-border agglomerations in Africa",
+        "subTitle": "In Africa, cities in close proximity are often located across the border from one another.",
+        "description": "More than 42 million people (almost 8% of total urban population) of the continent live in these 645 cross-border cities."
+      },
+      {
+        "id": 3,
+        "type": "article",
+        "image": "largest_agglomerations",
+        "url": "research/top-50-largest-agglomerations",
+        "title": "Top 50 largest agglomerations in Africa",
+        "subTitle": "Twenty of the 50 largest agglomeration by built-up area are in Nigeria and Kenya.",
+        "description": "One of the main drivers of urban growth in Africa is the expansion of built-up areas."
+      }
+    ]
+  },
+  "explore": {
+    "title": "Explore Africapolis",
+    "list": [
+      {
+        "id": 1,
+        "type": "article",
+        "image": "main/2explore",
+        "url": "countries",
+        "title": "Explore",
+        "subTitle": "Distance is a physical as well as a socio-economic concept.",
+        "description": "Explore data for more than 13,000 urban agglomerations in 54 African countries."
+      },
+      {
+        "id": 2,
+        "type": "article",
+        "image": "main/2country-report",
+        "url": "countries/country-report",
+        "title": "Country reports",
+        "subTitle": "In Africa, cities in close proximity are often located across the border from one another.",
+        "description": "A look into the urbanisation dynamics of 54 countries since 1950 and how they are shaping new urban realities."
+      },
+      {
+        "id": 3,
+        "type": "article",
+        "image": "main/2data",
+        "url": "data/?country=Angola&keyfigure=totalPop&type=abs&year=2020",
+        "title": "Data",
+        "subTitle": "In Africa, cities in close proximity are often located across the border from one another.",
+        "description": "Build custom data visualisations on urbanisation in Africa and download the data."
+      }
+    ]
+  },
+  "keyreport": {
+    "title": "Key reports",
+    "list": [
+      {
+        "id": 1,
+        "type": "press",
+        "title": "Africa's Urbanisation Dynamics 2025",
+        "url": "https://www.oecd.org/en/publications/africa-s-urbanisation-dynamics-2025_2a47845c-en.html"
+      },
+      {
+        "id": 2,
+        "type": "press",
+        "title": "Africa's Urbanisation Dynamics 2022",
+        "url": "https://www.oecd-ilibrary.org/development/africa-s-urbanisation-dynamics-2022_3834ed5b-en"
+      },
+      {
+        "id": 3,
+        "type": "press",
+        "title": "Africa's Urbanisation Dynamics 2020",
+        "url": "https://www.oecd-ilibrary.org/development/africa-s-urbanisation-dynamics-2020_b6bccb81-en"
+      }
+    ]
+  },
+  "video": {
+    "title": "Video",
+    "list": [
+      {
+        "id": 1,
+        "type": "video",
+        "title": "Africapolis",
+        "video": "https://www.youtube.com/embed/embBEeIsnt0"
+      },
+      {
+        "id": 2,
+        "type": "video",
+        "title": "Interview1",
+        "video": "https://www.youtube.com/embed/QeSHzRC9GQM"
+      },
+      {
+        "id": 3,
+        "type": "video",
+        "title": "Interview2",
+        "video": "https://www.youtube.com/embed/g4pA9iQhwUY"
+      }
+    ]
+  },
+  "media": {
+    "title": "In the media",
+    "list": [
+      {
+        "id": 43,
+        "type": "press",
+        "url": "https://www.jeuneafrique.com/1592124/economie-entreprises/exclusif-le-palmares-des-30-villes-les-plus-attractives-dafrique/?utm_source=Flying&utm_campaign=Flying&utm_medium=Social%20media",
+        "title": "Jeune Afrique, Le palmarès des 30 villes les plus attractives d’Afrique. Du Nord au Sud et d’Est en Ouest, Les Locomotives du Continent, 28/11/2024"
+      },
+      {
+        "id": 1,
+        "type": "press",
+        "url": "https://www.lesechos.fr/monde/afrique-moyen-orient/urbanisation-africaine-une-opportunite-economique-encore-mal-exploitee-1956486",
+        "title": "Les Echos, Urbanisation africaine : une opportunit\u00e9 \u00e9conomique encore mal exploit\u00e9e, 06/28/2023"
+      },
+      {
+        "id": 2,
+        "type": "press",
+        "url": "https://www.osservatoreromano.va/it/news/2023-06/quo-138/africa123-guardando-al-futuro.html",
+        "title": "Fratmat.info (C\u00f4te d'Ivoire), Urbanisation : 279 agglom\u00e9rations cr\u00e9\u00e9es dans l'espace Uemoa entre 2015 et 2020 selon lOcde, 06/22/2023"
+      },
+      {
+        "id": 3,
+        "type": "press",
+        "url": "https://www.osservatoreromano.va/it/news/2023-06/quo-138/africa123-guardando-al-futuro.html",
+        "title": "Osservatore Romano.va, \u201cAfrica123\u201d guardando al futuro, 06/16/2023"
+      },
+      {
+        "id": 4,
+        "type": "press",
+        "url": "https://www.focus.de/politik/ausland/sie-sind-klimarisiken-staerker-ausgesetzt-afrika-wird-staedtischer-doch-unkontrolliertes-bauen-gefaehrdet-die-bevoelkerung_id_194144256.html",
+        "title": "Focus.de, \u201eSie sind Klimarisiken st\u00e4rker ausgesetzt\u201cWie die Urbanisierung Afrika \u00fcberrollt, 05/19/2023"
+      },
+      {
+        "id": 5,
+        "type": "press",
+        "url": "https://allafrica.com/stories/202305180009.html",
+        "title": "DW, Africa Drives Global Urbanization, 05/17/2023"
+      },
+      {
+        "id": 6,
+        "type": "press",
+        "url": "https://www.xataka.com/magnet/nigeria-sera-tercer-pais-poblado-mundo-hoy-su-gobierno-no-sabe-cuantos-exactamente",
+        "title": "Xataca, Nigeria ser\u00e1 el tercer pa\u00eds m\u00e1s poblado del mundo. Hoy su gobierno no sabe ni cu\u00e1ntos son exactamente, 04/24/2023"
+      },
+      {
+        "id": 7,
+        "type": "press",
+        "url": "https://www.economist.com/middle-east-and-africa/2023/03/09/the-growth-of-africas-towns-and-small-cities-is-transforming-the-continent",
+        "title": "The Economist, The growth of Africa\u2019s towns and small cities is transforming the continent\nUrbanisation is making lives better, but not by as much as it could, 03/09/2023"
+      },
+      {
+        "id": 8,
+        "type": "press",
+        "url": "https://www.dw.com/fr/afrique-citadine-rattrape-retard/a-64191427",
+        "title": "DW, L'Afrique citadine rattrape son retard, 12/23/2022"
+      },
+      {
+        "id": 9,
+        "type": "press",
+        "url": "https://www.african-cities.org/africas-urbanisation-dynamics-a-conversation-with-philipp-heinrigs/",
+        "title": "African Cities Consortium, Africa\u2019s urbanisation dynamics: A conversation with Philipp Heinrigs, 11/30/2022"
+      },
+      {
+        "id": 10,
+        "type": "press",
+        "url": "https://www.ft.com/content/4be3e836-557d-4a11-8575-d2ccdfd9682b",
+        "title": "Financial Times, Africa\u2019s looming urban population explosion\nThe continent\u2019s cities will expand fast this century \u2014 as will the challenges they face, 06/27/2022"
+      },
+      {
+        "id": 11,
+        "type": "press",
+        "url": "https://afrimag.net/afrique-plus-de-950-millions-nouveaux-urbains-a-accueillir-dici-2050/",
+        "title": "Afrimag, Afrique Plus de 950 millions nouveaux urbains \u00e0 accueillir d\u2019ici 2050, 05/11/2022"
+      },
+      {
+        "id": 12,
+        "type": "press",
+        "url": "https://www.vivafrik.com/2022/05/04/laurent-bossard-la-ville-est-un-laboratoire-de-lafrique-de-demain-2-a45697.html",
+        "title": "VivAfrik, Laurent Bossard : \u00ab La ville est un laboratoire de l\u2019Afrique de demain \u00bb, 05/04/2022"
+      },
+      {
+        "id": 13,
+        "type": "press",
+        "url": "https://www.lemonde.fr/afrique/article/2022/04/26/un-rapport-d-institutions-internationales-souligne-les-effets-benefiques-de-l-urbanisation-en-afrique_6123734_3212.html",
+        "title": "Le Monde Afrique, Un rapport d\u2019institutions internationales souligne les effets b\u00e9n\u00e9fiques de l\u2019urbanisation en Afrique, 04/26/2022"
+      },
+      {
+        "id": 14,
+        "type": "press",
+        "url": "https://storymaps.arcgis.com/stories/73a4b40120b44a3fb9d6935d53d49330",
+        "title": "ESRI's StoryMaps, Urban Africa, 03/10/2022"
+      },
+      {
+        "id": 15,
+        "type": "press",
+        "url": "https://www.youtube.com/watch?v=DJejvaJbvCM",
+        "title": "Le Monde Afrique - Cities, Le Monde Afrique | Cities : \u00ab De Rabat au Cap, l'Afrique continent durable du 22e si\u00e8cle \u00bb, 12/22/2021"
+      },
+      {
+        "id": 16,
+        "type": "press",
+        "url": "https://www.lemonde.fr/afrique/article/2021/12/02/les-villes-d-afrique-face-a-leur-avenir_6104456_3212.html",
+        "title": "Le Monde Afrique, Les villes d'Afrique face \u00e0 leur avenir, 12/02/2021"
+      },
+      {
+        "id": 17,
+        "type": "press",
+        "url": "https://webgis.prcmarine.org/documents/bd415aa7dcb6496e87f27d337aa9872c/about",
+        "title": "G\u00e9oPRCM, Localisation des agglom\u00e9rations du littotoral d'Afrique de l'ouest, 07/19/2021"
+      },
+      {
+        "id": 18,
+        "type": "press",
+        "url": "https://www.sciencespo.fr/cartographie/productions/atlas-des-mondes-urbains/",
+        "title": "Sciences Po, Atlas des mondes urbains, 10/30/2020"
+      },
+      {
+        "id": 19,
+        "type": "press",
+        "url": "https://www.rtpi.org.uk/blog/2020/may/invisible-cities-urbanisation-in-africa/",
+        "title": "Royal Town Planning Institute, Invisible cities - urbanisation in Africa, 05/29/2020"
+      },
+      {
+        "id": 20,
+        "type": "press",
+        "url": "https://www.francetvinfo.fr/monde/afrique/societe-africaine/en-afrique-les-villes-setalent-et-les-campagnes-s-urbanisent_3821793.html",
+        "title": "franceinfo, En Afrique, les villes s\u2019\u00e9talent et les campagnes s'urbanisent (African cities are growing and rural areas urbanising), 02/13/2020"
+      },
+      {
+        "id": 21,
+        "type": "press",
+        "url": "https://guardian.ng/property/understanding-africas-urban-geography-is-a-top-priority/",
+        "title": "The Guardian Nigeria, Understanding Africa\u2019s urban geography is a top priority, 02/10/2020"
+      },
+      {
+        "id": 22,
+        "type": "press",
+        "url": "https://www.voanews.com/a/africa_rapid-urban-growth-africa-poses-challenges/6183891.html",
+        "title": "VOA, Rapid Urban Growth in Africa Poses Challenges, 02/07/2020"
+      },
+      {
+        "id": 23,
+        "type": "press",
+        "url": "https://www.topafricanews.com/2020/02/09/understanding-africas-urban-geography-is-a-top-priority-new-sahel-west-africa-club-organisation-for-economic-co-operation-and-development-swac-oecd-report/?pr=203681&lang=fr",
+        "title": "Top Africa News, Understanding Africa\u2019s urban geography is a top priority: New Sahel West Africa Club/ Organisation for Economic Co-operation and Development (OECD/SWAC) report, 02/07/2020"
+      },
+      {
+        "id": 24,
+        "type": "press",
+        "url": "https://www.alwihdainfo.com/Comprendre-la-geographie-urbaine-de-l-Afrique-une-priorite-pour-le-continent-selon-le-nouveau-rapport-du-Club-du-Sahel_a82335.html",
+        "title": "Alwihdainfo, Comprendre la g\u00e9ographie urbaine de l\u2019Afrique : une priorit\u00e9 pour le continent, selon le nouveau rapport du Club du Sahel et de l\u2019Afrique de l\u2019Ouest (Understanding urban geography in Africa: a priority for the continent), 02/07/2020"
+      },
+      {
+        "id": 25,
+        "type": "press",
+        "url": "https://www.lepoint.fr/afrique/pourquoi-il-faut-penser-autrement-l-urbanisation-africaine-06-02-2020-2361598_3826.php",
+        "title": "Le Point Afrique, Pourquoi il faut penser autrement l'urbanisation africaine (Why we need to rething African urbanisation), 02/06/2020"
+      },
+      {
+        "id": 26,
+        "type": "press",
+        "url": "https://lespanafricaines.com/lng/fr/2020/02/04/africapolis-lafrique-ne-connait-pas-un-exode-rural-massif/",
+        "title": "Les panafricaines, Africapolis: \"L'Afrique ne conna\u00eet pas un exode rural massif\", 02/04/2020"
+      },
+      {
+        "id": 27,
+        "type": "press",
+        "url": "https://sociable.co/technology/mapping-africas-high-speed-urbanization-to-manage-growing-infrastructure-africapolis/",
+        "title": "The Sociable, Mapping Africa\u2019s \u2018high-speed urbanization\u2019 to manage growing infrastructure: Africapolis, 12/23/2019"
+      },
+      {
+        "id": 28,
+        "type": "press",
+        "url": "https://africanews.space/how-africapolis-is-using-geospatial-technologies-to-tackle-urbanization-challenges-in-africa/",
+        "title": "Space in Africa, How AfricaPolis Is Using Geospatial Technologies To Tackle Urbanization Challenges In Africa, 11/06/2019"
+      },
+      {
+        "id": 29,
+        "type": "press",
+        "url": "https://www.oecd.org/swac/news/2019-august-africapolis-korean-land-housing-institute-article.pdf",
+        "title": "African urban studies at the OECD, Interview with the Korean Land and Housing Institute, Africapolis, 08/01/2019"
+      },
+      {
+        "id": 30,
+        "type": "press",
+        "url": "https://cityramag.fr/lafrique-face-au-defi-de-lurbanisation/",
+        "title": "CityRamag, L'Afrique face au d\u00e9fi de l'urbanisation, 07/22/2019"
+      },
+      {
+        "id": 31,
+        "type": "press",
+        "url": "https://www.oecd.org/swac/news/2019-july-africapolis-china-investment-magazine-article.pdf",
+        "title": "China Investment Magazine, A new vision of Africa\u2019s \nurbanisation, 07/14/2019"
+      },
+      {
+        "id": 32,
+        "type": "press",
+        "url": "https://www.lemonde.fr/afrique/article/2021/12/02/les-villes-d-afrique-face-a-leur-avenir_6104456_3212.html",
+        "title": "Le Monde Afrique, En Afrique, une urbanisation \u00e0 g\u00e9om\u00e9trie variable, 06/25/2019"
+      },
+      {
+        "id": 33,
+        "type": "press",
+        "url": "https://www.independent.co.ug/putting-africas-secondary-cities-first/",
+        "title": "The Independent. Uganda, Putting Africa\u2019s Secondary Cities First, 06/05/2019"
+      },
+      {
+        "id": 34,
+        "type": "press",
+        "url": "https://www.busiweek.com/putting-africas-secondary-cities-first/",
+        "title": "Busiweek / Project Syndicate, Putting Africa\u2019s Secondary Cities First, 05/22/2019"
+      },
+      {
+        "id": 35,
+        "type": "press",
+        "url": "https://veillecarto2-0.fr/2019/04/16/africapolis-le-geoportail-africain/",
+        "title": "Veille Carte 2.0, Africapolis, le g\u00e9oportail africain?, 04/16/2019"
+      },
+      {
+        "id": 36,
+        "type": "press",
+        "url": "https://www.infodata.ilsole24ore.com/2019/04/09/conseguenze-del-boom-demografico-africano-le-nuove-megalopoli/",
+        "title": "Il Sole 24 Ore, Conseguenze del boom demografico africano. Le nuove megalopoli (African megacities: the consequences of the demographic boom), 04/09/2019"
+      },
+      {
+        "id": 37,
+        "type": "press",
+        "url": "http://geoconfluences.ens-lyon.fr/actualites/veille/liens/africapolis-des-donnees-harmonisees-sur-l2019urbanisation-de-l2019afrique",
+        "title": "G\u00e9oconfluences, Africapolis, des donn\u00e9es harmonis\u00e9es sur l\u2019urbanisation de l\u2019Afrique, 01/31/2019"
+      },
+      {
+        "id": 38,
+        "type": "press",
+        "url": "https://cities-today.com/new-database-released-to-better-assess-african-cities/",
+        "title": "Cities Today, New database released to better assess African cities, 11/27/2018"
+      },
+      {
+        "id": 39,
+        "type": "press",
+        "url": "https://www.francetvinfo.fr/monde/afrique/societe-africaine/africapolis-un-site-de-l-ocde-sur-levolution-des-villes-africaines_3053889.html",
+        "title": "franceinfo, Africapolis, un site de l'OCDE sur l\u2019\u00e9volution des villes africaines (Africapolis, an OECD website on african cities' evolution), 11/23/2018"
+      },
+      {
+        "id": 40,
+        "type": "press",
+        "url": "https://www.lemonde.fr/afrique/article/2018/11/22/laurent-bossard-la-ville-est-un-laboratoire-de-l-afrique-de-demain_5386821_3212.html",
+        "title": "Le Monde Afrique, Laurent Bossard : \u00ab La ville est un laboratoire de l\u2019Afrique de demain \u00bb (Laurent Bossard: The city is a laboratory of the Africa of tomorrow), 11/22/2018"
+      },
+      {
+        "id": 41,
+        "type": "press",
+        "url": "https://www.liberation.fr/planete/2018/09/05/francois-moriconi-ebrard-en-afrique-l-etalement-des-villes-phagocyte-la-structure-rurale_1676819/",
+        "title": "Lib\u00e9ration, Interview Fran\u00e7ois Moriconi-Ebrard : \u00abEn Afrique, l\u2019\u00e9talement des villes phagocyte la structure rurale\u00bb (Fran\u00e7ois Moriconi-Ebrard: \"In Africa, urban sprawl is phagocying the rural settlement patterns\"), 09/05/2018"
+      },
+      {
+        "id": 42,
+        "type": "press",
+        "url": "http://www.l-integration.com/2018/01/30/rapport-africapolis-une-croissance-urbaine-africaine-le-plus-elevee-du-monde-en-perspective/",
+        "title": "L'int\u00e9gration, Rapport Africapolis : Une croissance urbaine africaine le plus \u00e9lev\u00e9e du monde en perspective, 01/30/2018"
+      }
+    ]
+  },
+  "press": {
+    "title": "press",
+    "list": [
+      {
+        "id": 1,
+        "type": "press",
+        "url": "https://africapolis.org/download/africapolis-2023-press-release-en.pdf",
+        "title": "Urban centres boom as rapid urbanisation redefines the urban geography of Africa, 26 June 2023"
+      },
+      {
+        "id": 2,
+        "type": "press",
+        "url": "https://africapolis.org/download/AUD-2022-SWAC-ENG.pdf",
+        "title": "People in Africa's cities benefit from better socio-economic outcomes and standards of living, according to new report, 26 April 2022"
+      },
+      {
+        "id": 3,
+        "type": "press",
+        "url": "https://www.oecd.org/swac/about/news/understandingafricasurbangeographyisatopprioritynewswacoecdreport.htm",
+        "title": "Understanding Africa’s urban geography is a top priority: New OECD/SWAC report, 7 February 2020"
+      }
+    ]
+  },
+  "events": {
+    "title": "Events",
+    "url": "events",
+    "list": [
+      {
+        "id": 1,
+        "type": "event",
+        "image": "10E WUF 10.png",
+        "url": "https://wuf.unhabitat.org/wuf10",
+        "title": "World Urban Forum 10",
+        "location": "Abu Dhabi, United Arab Emirates",
+        "date": "02/10/2020"
+      },
+      {
+        "id": 2,
+        "type": "event",
+        "image": "11E event FEEM feem_logo.svg",
+        "url": "https://www.feem.it/events/feem-webinar-africas-urbanisation-dynamics-2020-africapolis-mapping-a-new-urban-geography/",
+        "title": "Enrico Mattei Foundation Event",
+        "location": "Milan, Italy",
+        "date": "07/01/2020"
+      },
+      {
+        "id": 3,
+        "type": "event",
+        "image": "12E Le Monde Afrique Cities.jpg",
+        "url": "https://www.youtube.com/watch?v=DJejvaJbvCM",
+        "title": "Le Monde Afrique Cities",
+        "location": "Paris, France",
+        "date": "12/22/2021"
+      },
+      {
+        "id": 4,
+        "type": "event",
+        "image": "13 E launch kisumu.jpg",
+        "url": "https://www.youtube.com/watch?v=3_VcVMird1Q&t=2659s",
+        "title": "Virtual launch webinar",
+        "location": "Virtual event",
+        "date": "04/26/2022"
+      },
+      {
+        "id": 5,
+        "type": "event",
+        "image": "14E Kisumu.jpg",
+        "url": "https://wuf.unhabitat.org/event/economic-power-africas-cities",
+        "title": "Launch event",
+        "location": "Kisumu, Kenya",
+        "date": "05/17/2022"
+      },
+      {
+        "id": 6,
+        "type": "event",
+        "image": "15E IFIR event.png",
+        "url": "https://www.ifri.org/en/debates/governing-africas-urban-transitions",
+        "title": "Presentation at IFRI, Governing Africa's Urban Transitions | IFRI - Institut fran\u00e7ais des relations internationales",
+        "location": "Paris, France",
+        "date": "05/31/2022"
+      },
+      {
+        "id": 7,
+        "type": "event",
+        "image": "16E WUF 2022.png",
+        "url": "https://wuf.unhabitat.org/event/economic-power-africas-cities",
+        "title": "World Urban Forum 11, AUD 2022 Launch event",
+        "location": "Katowice, Poland",
+        "date": "06/28/2022"
+      },
+      {
+        "id": 8,
+        "type": "event",
+        "image": "17E FAO medium_Banner_aug_webinarsep15.jpg",
+        "url": "https://www.fao.org/geospatial/events/detail/en/c/1599594/",
+        "title": "Virtual Event on Geospatial for sustainable agriculture and urban development in Africa \u00a0|\u00a0Geospatial information for sustainable food systems\u00a0|\u00a0Food and Agriculture Organization of the United Nations (fao.org)",
+        "location": "Virtual event",
+        "date": "09/15/2022"
+      },
+      {
+        "id": 9,
+        "type": "event",
+        "image": "NaN",
+        "url": "https://www.african-cities.org/understanding-the-economic-power-of-africas-cities/",
+        "title": "AUD 2022 presentation at African Cities Research Consortium \u2013 October 2022 - Understanding the economic power of Africa\u2019s cities - ACRC (african-cities.org)",
+        "location": "Manchester, United Kingdom",
+        "date": "10/14/2022"
+      },
+      {
+        "id": 10,
+        "type": "event",
+        "image": "19E ACRC event.png",
+        "url": "NaN",
+        "title": "Africapolis presentation within IFRI consortium",
+        "location": "Paris, France",
+        "date": "10/26/2022"
+      },
+      {
+        "id": 11,
+        "type": "event",
+        "image": "1E event rurban.jpg",
+        "url": "https://www.oecd.org/fr/csao/evenements/rural-urbain.htm",
+        "title": "Conf\u00e9rence sur les connexions urbain/rural",
+        "location": "Copenhagen, Denmark",
+        "date": "01/25/2016"
+      },
+      {
+        "id": 12,
+        "type": "event",
+        "image": "20E ETH Zurich.png",
+        "url": "NaN",
+        "title": "Research seminar \"Planning Policy Challenges in Urban Africa\", organised by ETH Zurich\u00a0",
+        "location": "Zurich, Switzerland",
+        "date": "10/27/2021"
+      },
+      {
+        "id": 13,
+        "type": "event",
+        "image": "21E event World Bank.png",
+        "url": "NaN",
+        "title": "GPURL ACES A Collaborative Exchange Series at the World Bank Group. Africa's Urbanisation Dynamics 2022: The Economic Power of Africa's Cities. Joint report by AfDB, SWAC-OECD and UNECA.",
+        "location": "Virtual event",
+        "date": "02/02/2023"
+      },
+      {
+        "id": 14,
+        "type": "event",
+        "image": "22E event Geoteca.png",
+        "url": "https://geoteca.u-paris.fr/2019/09/25/prochain-midi-de-geoteca-africapolis-methode-et-principaux-resultats/",
+        "title": "Midi de G\u00e9ot\u00e9ca \u2013 jeudi 3 octobre 2019 : \u00ab AFRICApolis : m\u00e9thode et principaux r\u00e9sultats \u00bb",
+        "location": "Paris, France",
+        "date": "09/25/2019"
+      },
+      {
+        "id": 15,
+        "type": "event",
+        "image": "23E event RSS AfDB event.jpg",
+        "url": "picture: take from here: C:\\Users\\Fadda_M\\OECD\\SWAC-Cities and Territories - Documents\\General\\C. Communications (Twitter, newsletter)",
+        "title": "Research Seminar Series at the African Development Bank. Africa's Urbanisation Dynamics 2022: The Economic Power of Africa's Cities",
+        "location": "Virtual event",
+        "date": "04/27/2023"
+      },
+      {
+        "id": 16,
+        "type": "event",
+        "image": "2E event RFI.png",
+        "url": "https://www.rfi.fr/fr/emission/20181122-africites-villes-africaines-developpement-durable-croissance-demographique",
+        "title": "RFI event - Africapolis, pr\u00e9sentation dans l'\u00e9mission radio C'est pas du vent \"Africit\u00e9s: les villes africaines inventent leur mod\u00e8le de d\u00e9veloppement durable\"",
+        "location": "Paris, France",
+        "date": "11/21/2018"
+      },
+      {
+        "id": 17,
+        "type": "event",
+        "image": "3E France 24.jpg",
+        "url": "https://www.facebook.com/FRANCE24/videos/2238569563135317/",
+        "title": "Les entretiens exclusifs de France24 - Laurent Bossard",
+        "location": "Paris, France",
+        "date": "11/27/2018"
+      },
+      {
+        "id": 18,
+        "type": "event",
+        "image": "4E event DEVlogo.jpg",
+        "url": "https://www.oecd.org/swac/about/events/",
+        "title": "External Cooperation Infopoint presentation \u201cVisualise Urbanisation in Africa\u201d. Organised in collaboration with DG DEVCO and the Joint Research Centre (JRC) of the European Commission.",
+        "location": "Brussels, Belgium",
+        "date": "03/27/2019"
+      },
+      {
+        "id": 19,
+        "type": "event",
+        "image": "5E event GIZ.png",
+        "url": "\nhttps://africapolis.org/download/giz_bonn_2019.pdf\n",
+        "title": "GIZ event",
+        "location": "Bonn, Germany",
+        "date": "04/19/2019"
+      },
+      {
+        "id": 20,
+        "type": "event",
+        "image": "6E event Agriculture Revolution 2019.jpg",
+        "url": "NaN",
+        "title": "2019 African Green Revolution Forum. Grow Digital - Leveraging digital transformations to drive sustainable food systems",
+        "location": "Accra, Ghana",
+        "date": "09/04/2019"
+      },
+      {
+        "id": 21,
+        "type": "event",
+        "image": "7E event Durban.png",
+        "url": "https://www.durban2019.uclg.org/sites/default/files/enPROGRAMME_det.pdf",
+        "title": "6th World Congress of United Cities and Local Governments",
+        "location": "Durban, South Africa",
+        "date": "11/11/2019"
+      },
+      {
+        "id": 22,
+        "type": "event",
+        "image": "8E event top_banner_narrow_m.jpg.crdownload",
+        "url": "https://earthobservations.org/geoweek19.php?t=programme",
+        "title": "GeoWeek, Ideas Stage: Africapolis.org: Visualise Urbanisation in Africa ",
+        "location": "Canberra, Australia",
+        "date": "11/01/2019"
+      },
+      {
+        "id": 23,
+        "type": "event",
+        "image": "9E event urbanisation-dynamics-flyer-web-450px.jpg",
+        "url": "https://www.oecd.org/swac/events/africa-urban-realities-february-2020.htm",
+        "title": "AUDA-NEPAD and OECD/SWAC on \"Africa's Urban Realities: Better Cities for an Integrated, Prosperous and Peaceful Continent\"",
+        "location": "Addis Ababa, Ethiopia",
+        "date": "02/07/2020"
+      }
+    ]
+  },
+  "digitalstory": {
+    "title": "Digital story",
+    "list": [
+      {
+        "id": 1,
+        "type": "press",
+        "image": "digitalstory",
+        "url": "https://www.oecd.org/en/topics/urbanisation-and-development.html",
+        "title": "The Economic Power of Africa's Cities",
+        "subTitle": "Distance is a physical as well as a socio-economic concept.",
+        "description": "Explore data for more than 13,000 urban agglomerations in 54 African countries."
+      }
+    ]
+  }
+
+}

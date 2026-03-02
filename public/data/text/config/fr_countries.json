@@ -1,0 +1,367 @@
+{
+  "header": "Pays",
+  "subHeader": "Explorez 5 régions, 54 pays, 9 entités régionales et 13 000 agglomérations",
+  "menu": [
+    { "value": "explore", "label": "Explorez", "url": "", "exact": false },
+    {
+      "value": "country-report",
+      "label": "Rapport par pays",
+      "url": "country-report",
+      "exact": false
+    }
+  ],
+  "regions": {
+    "title": "Régions",
+    "list": [
+      { "id": 1, "item": "Afrique", "url": "Afrique" },
+      { "id": 2, "item": "Afrique centrale", "url": "Afrique centrale" },
+      { "id": 3, "item": "Afrique de l'Est", "url": "Afrique de l'Est" },
+      { "id": 4, "item": "Afrique du Nord", "url": "Afrique du Nord" },
+      { "id": 5, "item": "Afrique australe", "url": "Afrique australe" },
+      { "id": 6, "item": "Afrique de l'Ouest", "url": "Afrique de l'Ouest" }
+    ]
+  },
+  "regionalEntities" : {
+    "title": "Entités Régionales",
+    "list": [
+      { "id": 1, "item": "Union du Maghreb arabe", "url": "Union du Maghreb arabe" },
+      { "id": 2, "item": "Marché commun de l’Afrique orientale et australe", "url": "Marché commun de l’Afrique orientale et australe" },
+      { "id": 3, "item": "Communauté des États Sahélo Sahariens", "url": "Communauté des États Sahélo Sahariens" },
+      { "id": 4, "item": "Communauté d’Afrique de l’Est", "url": "Communauté d’Afrique de l’Est" },
+      { "id": 5, "item": "Communauté économique des États de l’Afrique centrale", "url": "Communauté économique des États de l’Afrique centrale" },
+      { "id": 6, "item": "Communauté économique des États de l’Afrique de l’Ouest", "url": "Communauté économique des États de l’Afrique de l’Ouest" },
+      { "id": 7, "item": "Autorité Intergouvernementale sur le Développement", "url": "Autorité Intergouvernementale sur le Développement" },
+      { "id": 8, "item": "Communauté de développement de l’Afrique australe", "url": "Communauté de développement de l’Afrique australe" },
+      { "id": 9, "item": "Union monétaire ouest-africaine", "url": "Union monétaire ouest-africaine" }
+    ]
+  },
+  "countries": {
+    "title": "Pays",
+    "list": [
+      {
+        "C_ID": 54,
+        "R_ID": 4,
+        "item": "Afrique du Sud",
+        "url": "Afrique du Sud"
+      },
+      {
+        "C_ID": 14,
+        "R_ID": 3,
+        "item": "Algérie",
+        "url": "Algérie"
+      },
+      {
+        "C_ID": 1,
+        "R_ID": 4,
+        "item": "Angola",
+        "url": "Angola"
+      },
+      {
+        "C_ID": 3,
+        "R_ID": 5,
+        "item": "Bénin",
+        "url": "Bénin"
+      },
+      {
+        "C_ID": 5,
+        "R_ID": 4,
+        "item": "Botswana",
+        "url": "Botswana"
+      },
+      {
+        "C_ID": 4,
+        "R_ID": 5,
+        "item": "Burkina Faso",
+        "url": "Burkina Faso"
+      },
+      {
+        "C_ID": 2,
+        "R_ID": 1,
+        "item": "Burundi",
+        "url": "Burundi"
+      },
+      {
+        "C_ID": 12,
+        "R_ID": 5,
+        "item": "Cabo Verde",
+        "url": "Cabo Verde"
+      },
+      {
+        "C_ID": 8,
+        "R_ID": 1,
+        "item": "Cameroun",
+        "url": "Cameroun"
+      },
+      {
+        "C_ID": 11,
+        "R_ID": 2,
+        "item": "Comores",
+        "url": "Comores"
+      },
+      {
+        "C_ID": 7,
+        "R_ID": 5,
+        "item": "Côte d’Ivoire",
+        "url": "Côte d'Ivoire"
+      },
+      {
+        "C_ID": 13,
+        "R_ID": 2,
+        "item": "Djibouti",
+        "url": "Djibouti"
+      },
+      {
+        "C_ID": 15,
+        "R_ID": 3,
+        "item": "Égypte",
+        "url": "Égypte"
+      },
+      {
+        "C_ID": 16,
+        "R_ID": 2,
+        "item": "Érythrée",
+        "url": "Érythrée"
+      },
+      {
+        "C_ID": 17,
+        "R_ID": 2,
+        "item": "Éthiopie",
+        "url": "Éthiopie"
+      },
+      {
+        "C_ID": 18,
+        "R_ID": 1,
+        "item": "Gabon",
+        "url": "Gabon"
+      },
+      {
+        "C_ID": 21,
+        "R_ID": 5,
+        "item": "Gambie",
+        "url": "Gambie"
+      },
+      {
+        "C_ID": 19,
+        "R_ID": 5,
+        "item": "Ghana",
+        "url": "Ghana"
+      },
+      {
+        "C_ID": 20,
+        "R_ID": 5,
+        "item": "Guinée",
+        "url": "Guinée"
+      },
+      {
+        "C_ID": 23,
+        "R_ID": 1,
+        "item": "Guinée équatoriale",
+        "url": "Guinée équatoriale"
+      },
+      {
+        "C_ID": 22,
+        "R_ID": 5,
+        "item": "Guinée-Bissau",
+        "url": "Guinée-Bissau"
+      },
+      {
+        "C_ID": 24,
+        "R_ID": 2,
+        "item": "Kenya",
+        "url": "Kenya"
+      },
+      {
+        "C_ID": 27,
+        "R_ID": 4,
+        "item": "Lesotho",
+        "url": "Lesotho"
+      },
+      {
+        "C_ID": 25,
+        "R_ID": 5,
+        "item": "Libéria",
+        "url": "Libéria"
+      },
+      {
+        "C_ID": 26,
+        "R_ID": 3,
+        "item": "Libye",
+        "url": "Libye"
+      },
+      {
+        "C_ID": 29,
+        "R_ID": 2,
+        "item": "Madagascar",
+        "url": "Madagascar"
+      },
+      {
+        "C_ID": 34,
+        "R_ID": 4,
+        "item": "Malawi",
+        "url": "Malawi"
+      },
+      {
+        "C_ID": 30,
+        "R_ID": 5,
+        "item": "Mali",
+        "url": "Mali"
+      },
+      {
+        "C_ID": 28,
+        "R_ID": 3,
+        "item": "Maroc",
+        "url": "Maroc"
+      },
+      {
+        "C_ID": 33,
+        "R_ID": 2,
+        "item": "Maurice",
+        "url": "Maurice"
+      },
+      {
+        "C_ID": 32,
+        "R_ID": 3,
+        "item": "Mauritanie",
+        "url": "Mauritanie"
+      },
+      {
+        "C_ID": 31,
+        "R_ID": 4,
+        "item": "Mozambique",
+        "url": "Mozambique"
+      },
+      {
+        "C_ID": 36,
+        "R_ID": 4,
+        "item": "Namibie",
+        "url": "Namibie"
+      },
+      {
+        "C_ID": 37,
+        "R_ID": 5,
+        "item": "Niger",
+        "url": "Niger"
+      },
+      {
+        "C_ID": 38,
+        "R_ID": 5,
+        "item": "Nigéria",
+        "url": "Nigéria"
+      },
+      {
+        "C_ID": 53,
+        "R_ID": 2,
+        "item": "Ouganda",
+        "url": "Ouganda"
+      },
+      {
+        "C_ID": 10,
+        "R_ID": 1,
+        "item": "République du Congo",
+        "url": "République du Congo"
+      },
+      {
+        "C_ID": 6,
+        "R_ID": 1,
+        "item": "République centrafricaine",
+        "url": "République centrafricaine"
+      },
+      {
+        "C_ID": 9,
+        "R_ID": 1,
+        "item": "République démocratique du Congo",
+        "url": "République démocratique du Congo"
+      },
+      {
+        "C_ID": 47,
+        "R_ID": 4,
+        "item": "Royaume d’Eswatini",
+        "url": "Royaume d’Eswatini"
+      },
+      {
+        "C_ID": 40,
+        "R_ID": 2,
+        "item": "Rwanda",
+        "url": "Rwanda"
+      },
+      {
+        "C_ID": 46,
+        "R_ID": 1,
+        "item": "Sao Tomé-et-Principe",
+        "url": "Sao Tomé-et-Principe"
+      },
+      {
+        "C_ID": 42,
+        "R_ID": 5,
+        "item": "Sénégal",
+        "url": "Sénégal"
+      },
+      {
+        "C_ID": 48,
+        "R_ID": 2,
+        "item": "Seychelles",
+        "url": "Seychelles"
+      },
+      {
+        "C_ID": 43,
+        "R_ID": 5,
+        "item": "Sierra Leone",
+        "url": "Sierra Leone"
+      },
+      {
+        "C_ID": 44,
+        "R_ID": 2,
+        "item": "Somalie",
+        "url": "Somalie"
+      },
+      {
+        "C_ID": 41,
+        "R_ID": 2,
+        "item": "Soudan",
+        "url": "Soudan"
+      },
+      {
+        "C_ID": 45,
+        "R_ID": 2,
+        "item": "Soudan du Sud",
+        "url": "Soudan du Sud"
+      },
+      {
+        "C_ID": 52,
+        "R_ID": 2,
+        "item": "Tanzanie",
+        "url": "Tanzanie"
+      },
+      {
+        "C_ID": 49,
+        "R_ID": 1,
+        "item": "Tchad",
+        "url": "Tchad"
+      },
+      {
+        "C_ID": 50,
+        "R_ID": 5,
+        "item": "Togo",
+        "url": "Togo"
+      },
+      {
+        "C_ID": 51,
+        "R_ID": 3,
+        "item": "Tunisie",
+        "url": "Tunisie"
+      },
+      {
+        "C_ID": 55,
+        "R_ID": 4,
+        "item": "Zambie",
+        "url": "Zambie"
+      },
+      {
+        "C_ID": 56,
+        "R_ID": 4,
+        "item": "Zimbabwe",
+        "url": "Zimbabwe"
+      }
+    ]
+  }
+}

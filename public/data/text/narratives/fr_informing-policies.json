@@ -1,0 +1,20 @@
+{
+  "title": "INFORMER LES POLITIQUES POUR L’AVENIR URBAIN DE L’AFRIQUE",
+  "url": "defining-urban",
+  "list": [
+    {
+      "type": "image",
+      "url": "informing-1"
+    },
+    {
+      "type": "text",
+      "item": "D’ici 2050, l’Afrique devrait connaître le taux de croissance urbaine le plus rapide du monde. À cet horizon, les villes africaines devraient abriter 950 millions d’habitants supplémentaires. La planification et la gestion urbaines sont par conséquent des enjeux de développement de premier ordre. Comprendre l’urbanisation, ses moteurs, ses dynamiques et ses impacts est essentiel pour concevoir des politiques – locales, nationales et continentales – ciblées, inclusives et tournées vers l’avenir.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Africapolis fournit des données probantes et évidences permettant aux villes et gouvernements de rendre les zones urbaines plus inclusives, productives et durables.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    }
+  ]
+}

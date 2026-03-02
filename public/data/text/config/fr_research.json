@@ -1,0 +1,136 @@
+{
+  "header": "Analyses",
+  "subHeader": {
+    "type": "text",
+    "title": "Analyses basées sur 200 000 points de données."
+  },
+  "dataDrivenStories": {
+    "title": "Data driven stories",
+    "list": [
+      {
+        "id": 1,
+        "image": "integration regionale CEDEAO",
+        "url": "https://oecd-development-matters.org/2019/04/18/le-role-essentiel-des-villes-dans-la-cooperation-transfrontaliere-levier-de-lintegration-africaine/",
+        "title": "Le rôle essentiel des villes dans la coopération transfrontalière, levier de l’intégration africaine",
+        "subTitle": "Les villes africaines jouent un rôle essentiel dans la coopération transfrontalière, favorisant l'intégration régionale en Afrique de l'Ouest. Malgré les efforts en cours, de nombreux projets transfrontaliers restent peu développés, soulignant la nécessité de renforcer les capacités des collectivités territoriales et des petites villes."
+      },
+      {
+        "id": 2,
+        "image": "distance-to-national-metropoles",
+        "url": "distance-to-national-metropoles",
+        "title": "Distance aux métropoles nationales",
+        "subTitle": "Tous les réseaux urbains des pays africains sont dominés par au moins une métropole."
+      },
+      {
+        "id": 3,
+        "image": "cross_border_agglomerations",
+        "url": "cross-border-agglomerations",
+        "title": "Agglomérations frontalières",
+        "subTitle": "Les interactions entre deux villes sont généralement d'autant plus fortes que les villes sont proches. En Afrique, les villes proches les unes des autres sont souvent situées d’un côté à l’autre d’une frontière."
+      },
+      {
+        "id": 4,
+        "image": "urban_agglomeration_network",
+        "url": "urban-agglomeration-network",
+        "title": "Réseaux d'agglomérations urbaines",
+        "subTitle": "En général, les liens sociaux entre les individus se renforcent à mesure que la distance diminue. De même, la proximité entre les agglomérations urbaines constitue un bon indicateur des interactions sociales, économiques, culturelles et politiques entre les villes et leurs habitants."
+      },
+      {
+        "id": 5,
+        "image": "top50",
+        "url": "top-50-largest-agglomerations",
+        "title": "Les 50 plus grandes agglomérations",
+        "subTitle": "La troisième zone urbaine du continent, Onitsha (Nigéria), qui compte 8.5 millions d’habitants, n’est cependant pas (encore) un nom familier."
+      },
+      {
+        "id": 6,
+        "image": "mapping-exposure-of-urban-and-rural-communities-to-natural-hazards",
+        "url": "mapping-exposure-of-urban-and-rural-communities-to-natural-hazards",
+        "title": "Cartographie de l'Exposition des Communaut\u00e9s Urbaines et Rurales aux Risques Naturels\u00a0",
+        "subTitle": "À l'aide de statistiques nationales et données libres, la Fondation Global Earthquake Model (GEM) a développé et publié un nouveau modèle d'exposition pour l'Afrique qui peut être utilisé dans l'évaluation des risques de catastrophes naturelles."
+      },
+      {
+        "id": 7,
+        "image": "educational-gender-inequality-in-sub-saharan-africa--a-long-term-perspective",
+        "url": "educational-gender-inequality-in-sub-saharan-africa--a-long-term-perspective",
+        "title": "L'in\u00e9galit\u00e9 entre les Sexes en Mati\u00e8re d\u2019\u00c9ducation en Afrique Subsaharienne : une Perspective \u00e0 Long Terme",
+        "subTitle": "Les auteurs ont examiné les tendances à long terme des disparités entre les sexes en matière d'éducation en Afrique subsaharienne. Bien qu'il ne s'agisse pas d'une variable centrale de l'article, Africapolis est utilisé pour comprendre comment l'agglomération urbaine et la présence de villes sont corrélées aux écarts entre les sexes en matière d'éducation en Afrique subsaharienne. L'agglomération urbaine en Afrique subsaharienne a été systématiquement associée à de plus faibles disparités entre les sexes dans le domaine de l'éducation. "
+      },
+      {
+        "id": 8,
+        "image": "child-health-across-the-rural-urban-spectrum-",
+        "url": "child-health-across-the-rural-urban-spectrum-",
+        "title": "La Sant\u00e9 des Enfants dans le Spectre Rural-Urbain\u00a0",
+        "subTitle": "La vie urbaine est-elle bonne ou mauvaise pour la santé des enfants ? Certaines zones urbaines sont-elles plus propices à la santé des enfants que d'autres ? L’article s’intéresse au rôle de l’urbanisation dans les infrastructures sanitaires et la santé des enfants au travers d’une étude portant sur 40000 enfants issus de 10 pays africains. "
+      },
+      {
+        "id": 9,
+        "image": "morphological-traits-of-informality-in-sub-saharan-african-cities-",
+        "url": "morphological-traits-of-informality-in-sub-saharan-african-cities-",
+        "title": "Les Traits Morphologiques de l'Informalit\u00e9 dans les Villes d'Afrique Sub-Saharienne",
+        "subTitle": "Une grande partie de la population urbaine d'Afrique subsaharienne vit dans des zones caractéristiques de l'informalité urbaine. Alors que l’informalité urbaine est devenue la règle plutôt que l’exception dans de nombreux endroits, l’apparition de nouveaux outils d’informations géographiques représente de potentielles méthodes de recherches favorisant les études morphologiques des environnements urbains complexes.  "
+      },
+      {
+        "id": 10,
+        "image": "patterns-of-urbanisation-and-economic-development--evidence-from-household-surveys-in-ethiopia",
+        "url": "patterns-of-urbanisation-and-economic-development--evidence-from-household-surveys-in-ethiopia",
+        "title": "Mod\u00e8les d'Urbanisation et de D\u00e9veloppement \u00c9conomique, R\u00e9sultats d'Enqu\u00eates aupr\u00e8s des M\u00e9nages en \u00c9thiopie.\u00a0",
+        "subTitle": "Dans cet article, le chercheur Mekdim D. Regassa illustre les différentes façons dont l'ensemble des données d’Africapolis a été utilisé pour évaluer comment l'urbanisation détermine le schéma spatial du développement économique en Afrique subsaharienne. "
+      },
+      {
+        "id": 11,
+        "image": "-mapping-urban-green-space-across-africa",
+        "url": "-mapping-urban-green-space-across-africa",
+        "title": " Mapping urban green space across Africa",
+        "subTitle": "Disasters due to natural hazards have affected approximately half a billion people on the continent and resulted in significant displacement, casualties, and economic loss in the past 50 years."
+    },
+    {
+      "id": 12,
+      "image": "-african-urban-forms--mapping-resilience-to-climate-change",
+      "url": "-african-urban-forms--mapping-resilience-to-climate-change",
+      "title": "African urban forms: mapping resilience to climate change",
+      "subTitle": "Africa is experiencing a significant urban and climate transition. This analysis uses new methods and data to assess compactness and urban form attributes across 5,625 urban areas. It finds that very large cities (over 4 million people) are more compact than smaller and intermediate cities."
+    },
+    {
+      "id": 13,
+      "image": "from-the-fine-spatialization-of-urban-data-in-africa-to-unidentified-geographical-objects",
+      "url": "from-the-fine-spatialization-of-urban-data-in-africa-to-unidentified-geographical-objects",
+      "title": "De la spatialisation fine des données urbaines en Afrique aux objets géographiques non identifiés",
+      "subTitle": "L'Afrique connaît une urbanisation rapide, transformant les paysages et les sociétés. Ce phénomène présente des défis et des opportunités uniques pour le développement, nécessitant une étude approfondie afin de guider l’action publique. Des recherches récentes utilisant Africapolis ont permis la découverte d’un nouveau type d’agglomération urbaine : l’Objet Géographique Non Identifié (OGNI)."
+    },
+    {
+      "id": 14,
+      "image": "underlying-rules-of-evolutionary-urban-systems-in-africa",
+      "url": "underlying-rules-of-evolutionary-urban-systems-in-africa",
+      "title": "Règles sous-jacentes des systèmes urbains évolutifs en Afrique",
+      "subTitle": "Les systèmes urbains, au fur et à mesure de leur évolution, suivent certains principes fondamentaux qui peuvent être modélisés par des lois mathématiques simples telles que la loi de Zipf (règle rang-taille), la loi de Gibrat (croissance proportionnelle) et la loi d’échelle."
+    },
+    {
+      "id": 15,
+      "image": "shorthand_cluster",
+      "url": "https://oecd-swac.shorthandstories.com/city-clusters-in-africa-fr/index.html",
+      "title": "Grappes urbaines en Afrique",
+      "subTitle": "Les grappes urbaines sont l'épine dorsale de nombreuses économies prospères. Des grappes urbaines bien intégrés peuvent créer des écosystèmes économiques bien plus vastes que ceux d'une seule ville, offrant ainsi une nouvelle opportunité de développement économique et d'intégration régionale en Afrique."
+    }
+    ]
+  },
+  "dataResearch": {
+    "title": "Recherche",
+    "list": [
+      {
+        "id": 1,
+        "image": "SCI",
+        "url": "https://africapolis.org/sci/",
+        "title": "Indice de connexité sociale",
+        "subTitle": "Cet indice mesure la force de la connexité sociale entre deux zones géographiques, représentée par les liens d’amitié Facebook. L’indice de connexité sociale permet de fournir des statistiques intéressantes sur l’économie, la mobilité sociale et la santé."
+      },
+      {
+        "id": 2,
+        "image": "RoadNetwork",
+        "url": "https://africapolis.org/network",
+        "title": "Simulateur de réseau routier",
+        "subTitle": "Pour comparer le scénario dans lequel les frontières créent d'importantes frictions dans les déplacements et celui dans lequel elles ne créent pas de retards, nous utilisons les données d'OpenStreetMap et d'Africapolis pour obtenir la localisation et la taille de toutes les agglomérations urbaines de plus de 100 000 habitants, ainsi que des villes plus petites situées à proximité des grands axes routiers, afin de construire un réseau connecté de toutes les villes."
+      }
+    ]
+  }
+}

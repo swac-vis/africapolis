@@ -1,0 +1,20 @@
+{
+  "title": "INFORMING POLICIES FOR AFRICA’S URBAN FUTURE",
+  "url": "defining-urban",
+  "list": [
+    {
+      "type": "image",
+      "url": "informing-1"
+    },
+    {
+      "type": "text",
+      "item": "Africa is projected to have the fastest urban growth rate in the world — by 2050, Africa’s cities will be home to an additional 950 million people. Urban planning and management are therefore essential development challenges, which require a better understanding of urbanisation, its drivers, dynamics and impacts, in order to design targeted, inclusive and forward-looking policies at the local, national and continental levels.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Africapolis data provides the evidence that can support cities and governments to make urban areas more inclusive, productive and sustainable.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    }
+  ]
+}

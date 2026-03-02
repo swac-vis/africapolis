@@ -1,0 +1,58 @@
+{
+  "title": "DYNAMIQUES ET FACTEURS D'URBANISATION",
+  "url": "urbanisation-dynamics-and-drivers",
+  "list": [
+    {
+      "type": "image",
+      "url": "urbandynamics-1"
+    },
+    {
+      "type": "text",
+      "subtitle": "Saisir les dynamiques de la croissance urbaine, une approche spatiale",
+      "item": "L’Afrique possède le taux de croissance urbaine le plus rapide au monde : d’ici 2050, ses zones urbaines compteront 950 millions de personnes supplémentaires. Cette croissance induit des changements dans la taille, la forme et les caractéristiques fonctionnelles des zones bâties des agglomérations. La plupart du temps, la croissance de la population urbaine s’accompagne d’une augmentation de la surface bâtie – à travers la construction de logements, de zones industrielles et commerciales, de services administratifs et publics (écoles, hôpitaux, parcs), et d’infrastructures, installations et services qui font vivre la ville.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "subtitle": "Croissance urbaine, coalescence et densification : l'émergence de grandes zones urbaines",
+      "item": "La ville d’Onitsha, située sur la rive est du fleuve Niger, dans l'État nigérian d'Anambra, compte officiellement 1.1 million d’habitants (World Urbanization Prospects, 2018). Pourtant, selon les données d’Africapolis, l'agglomération d'Onitsha est la troisième agglomération urbaine la plus peuplée d'Afrique avec 8,5 millions d'habitants.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Onitsha illustre deux caractéristiques de l'urbanisation africaine : le rythme rapide des dynamiques d'urbanisation – la ville ne faisait pas partie des 50 plus grandes agglomérations il y a 15 ans seulement - et la façon dont la croissance des zones bâties favorise la formation de grandes agglomérations.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "L’agglomération urbaine d’Onitsha s'étend sur 100 kilomètres, soit une superficie 80 fois supérieure à celle de la ville elle-même. Le centre historique de la ville est situé à l'extrême nord de l'agglomération. Cette immense agglomération bâtie en continu s'est formée sous les effets combinés de la croissance des zones urbaines, de la coalescence d'agglomérations, de l'absorption de petites localités et de la densification des zones rurales.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "L'agglomération d'Onitsha a émergé dans une vaste zone densément peuplée comprenant plusieurs centres urbains historiques. Aujourd'hui, elle englobe les villes d'Aba, Nnewi, Owerri et Umuahia, chacune peuplée de plus de 500 000 habitants, ainsi que de nombreuses villes plus petites comme Ihiala et Nkwerre, qui connaissent toutes leur propre croissance. ",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Cependant, l’une des conditions importantes de la formation rapide de la zone urbaine d’Onitsha est la très forte densité rurale de sa périphérie et de ses environs. Ces foyers de peuplement autrefois dispersés et linéaires, dont l'expansion était auparavant contrainte (naturellement et/ou politiquement), sont devenus, en raison de la pression démographique sous-jacente, denses au point d’être considérés comme urbains. Cette vaste agglomération, qui mesure aujourd’hui environ 2 900 km2, compte plusieurs centres de forte densité reliés entre eux par de vastes zones de densité plus faible dont le caractère urbain et la forme ne sont pas totalement perceptibles. Cependant, la densité moyenne de la zone urbaine atteint 3 000 habitants/km2, une densité comparable à celles des larges aires métropolitaines d'Europe occidentale, telles que Berlin (Allemagne) ou encore Milan (Italie). ",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "subtitle": "Une réalité urbaine émergente",
+      "item": "La définition du terme « urbain » utilisée par Africapolis - qui met l’accent sur l’environnement bâti -  implique une distinction stricte entre urbain et non urbain. Si cette définition ne donne que peu d’informations sur les aspects fonctionnels et le « degré d’urbanisation », elle révèle certaines des dynamiques et défis d'urbanisation qui seront de plus en plus importants pour la gestion et la planification des tendances futures.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "L'agglomération urbaine d'Onitsha devrait atteindre 25 millions d'habitants d'ici 2050, et pourrait fusionner avec Aba, Uyo et Port Harcourt pour former une vaste zone urbaine de 50 millions d'habitants. L'exemple d'Onitsha illustre certaines des tendances qui remettent en question les perceptions courantes de l'urbanisation, comme l’idée selon laquelle l'exode rural en serait le moteur principal. Onitsha, par exemple, ne s’est pas développée grâce à l'afflux de populations rurales. Au contraire, c’est l’augmentation de la densité de la population rurale au sein des foyers ruraux existants qui a entraîné leur coalescence, puis leur rattachement à Onitsha en une seule grande agglomération.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Onitsha n’est pas un cas isolé en Afrique.  D’autres cas, au Cameroun, en Éthiopie, au Rwanda ou encore en Ouganda, par exemple, mettent en lumière une réalité urbaine de l’Afrique moderne qu’il s’agit de mieux comprendre et planifier. L’enjeu pour les citoyens, décideurs et chercheurs est de concevoir des stratégies d’investissement, de service public et de planification, ainsi que des cadres administratifs adaptés à la réalité de ces zones urbaines.",
+      "links": [{ "match": "__whatever word", "link": "" }]
+    }
+  ]
+}

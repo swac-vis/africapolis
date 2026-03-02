@@ -1,0 +1,42 @@
+{
+  "title": "BEYOND LARGE CITIES",
+  "url": "beyond-large-cities",
+  "list": [
+    {
+      "type": "image",
+      "url": "beyond-1"
+    },
+    {
+      "type": "text",
+      "subtitle": "Few big cities and many small ones",
+      "item": "In Africa, but also globally, the vast majority of cities are small in size, just a few can be classified as large. Africa has 11 urban areas with more than five million inhabitants, which have a combined population of 95 million people. The continent also counts 6,740 small urban agglomerations with fewer than 100,000 inhabitants, which are home to 180 million population. Despite their combined size, these small urban agglomerations are absent from most databases and little information as to their number, size and location is available. ",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "The focus on larger cities has resulted in a skewed perception of African cities and the understanding of the continent’s urbanisation dynamics. An important yet often overlooked driver of urbanisation in Africa is the continued emergence of urban agglomerations. For example, the number of urban agglomerations that host between 10,000 and 100,000 inhabitants increased from 4,770 in 2000 to 6,740 in 2015.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "item": "Africapolis’ unique methodology allows for the integration of thousands of small towns and agglomerations that are home to millions of Africans. The detection of built-up areas from satellite imagery combined with official records allows for the identification of these new agglomerations, whose existence and recognition are sometimes ignored by national statistics.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "image",
+      "url": "beyond-2"
+    },
+    {
+      "type": "text",
+      "subtitle": "Bottom-up urbanisation: Formation and growth of small urban agglomerations:",
+      "item": "Most countries in Africa have seen an increase in the number of urban agglomerations over past decades, though the extent, speed and characteristics of this process vary across countries and regions. The majority of new agglomerations emerge in areas with high rural population densities and in proximity to large metropolitan areas. The natural growth of rural settlements is one important driver in the increase in the number of urban agglomerations. This in-situ urbanisation is driven by population growth in rural settlements leading over time to a re-classification from rural to urban, once the threshold of 10,000 inhabitants is reached. This form of emergence of urban agglomerations is more common in regions where settlements are clustered, for instance in dry and savannah climates. Yet, regions with dispersed or scattered settlements produce different forms of urbanisation. In dispersed rural settlement areas, populations are located more linearly with respect to some physical or cultural landscapes, e.g. rivers, valleys, roads. Here, population growth leads to a linear extension of settlements that merge and absorb initially separated rural settlements resulting in the formation of one continuously built-up area with a combined population of more than 10,000 inhabitants. This form of emergence is more common in Africa’s forest and mountain areas, notably Kenya, Nigeria, Rwanda, Uganda. The emergence of new urban agglomerations will continue, and so will the growth of today’s small urban agglomerations.",
+      "links": [{ "match": "__any word", "link": "" }]
+    },
+    {
+      "type": "text",
+      "subtitle": "Small towns, rural areas and urbanisation",
+      "item": "Small, urban agglomerations are an important component of urban systems. 125 million Africans live in urban agglomerations with fewer than 50,000 inhabitants. Small urban areas are also the main connection between rural and urban areas. For many rural people, these places are the access points to markets, public services such as health and education, employment opportunities and information. Including small urban agglomerations in urban planning and policy making is essential to making Africa’s urbanisation dynamic more inclusive and sustainable. Africapolis is the only international database that systematically includes small urban agglomerations above 10,000 inhabitants, providing unique information on these areas. In comparison, the UN World Urbanisation Prospects, provide population estimates for 221 urban agglomerations in Africa, only covering cities with more than 300,000 inhabitants. Africapolis covers 13,000 individual urban agglomerations, of which 97% have fewer than 300,000 inhabitants. This data is essential for a better understanding of urbanisation dynamics and the linkages between rural and urban areas.  ",
+      "links": [{ "match": "__any word", "link": "" }]
+    }
+  ]
+}

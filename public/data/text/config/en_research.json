@@ -1,0 +1,138 @@
+{
+  "header": "Research",
+  "subHeader": {
+    "type": "text",
+    "title": "Data-driven stories from 200,000 data points."
+  },
+  "dataDrivenStories": {
+    "title": "Data driven stories",
+    "list": [
+      {
+        "id": 1,
+        "image": "africapolis visualisation",
+        "url": "https://oecd-development-matters.org/2018/11/22/visualising-urbanisation-how-the-africapolis-platform-sheds-new-light-on-urban-dynamics-in-africa/",
+        "title": "Visualising urbanisation: How the Africapolis platform sheds new light on urban dynamics in Africa",
+        "subTitle": "The Africapolis platform offers valuable data and visualisation tools to understand the dynamics of urbanisation in Africa, including smaller agglomerations often overlooked in official statistics. By adopting a bottom-up approach and offering standardised measures of urbanisation, Africapolis debunks myths and helps policymakers design effective and sustainable responses to the challenges of urban growth."
+      },
+      {
+        "id": 2,
+        "image": "distance-to-national-metropoles",
+        "url": "distance-to-national-metropoles",
+        "title": "Distance to national metropoles",
+        "subTitle": "All African countries’ urban networks are dominated by at least one metropole."
+      },
+      {
+        "id": 3,
+        "image": "cross_border_agglomerations",
+        "url": "cross-border-agglomerations",
+        "title": "Cross-border agglomerations",
+        "subTitle": "Interactions between cities are usually stronger the closer they are. In Africa, cities in close proximity are often located across the border from one another."
+      },
+      {
+        "id": 4,
+        "image": "urban_agglomeration_network",
+        "url": "urban-agglomeration-network",
+        "title": "Urban agglomeration network",
+        "subTitle": "In general, social links between individuals increase as distance decreases. Similarly, proximity between urban agglomerations is a good indicator of the social, economic, cultural and political interactions between cities and their inhabitants."
+      },
+      {
+        "id": 5,
+        "image": "top50",
+        "url": "top-50-largest-agglomerations",
+        "title": "Top 50 agglomerations",
+        "subTitle": "The continent’s third largest urban area with 8.5 million inhabitants - Onitsha, Nigeria – is, however, not (yet) a familiar household name."
+      },
+      {
+        "id": 6,
+        "image": "mapping-exposure-of-urban-and-rural-communities-to-natural-hazards",
+        "url": "mapping-exposure-of-urban-and-rural-communities-to-natural-hazards",
+        "title": "Mapping exposure of urban and rural communities to natural hazards",
+        "subTitle": "With the aid of national statistics and open datasets including urban agglomeration data from Africapolis, the Global Earthquake Model (GEM) Foundation developed and released a new exposure model for Africa that can be used in disaster risk assessment."
+      },
+      {
+        "id": 7,
+        "image": "educational-gender-inequality-in-sub-saharan-africa--a-long-term-perspective",
+        "url": "educational-gender-inequality-in-sub-saharan-africa--a-long-term-perspective",
+        "title": "Educational gender inequality in sub-Saharan Africa: a long-term perspective",
+        "subTitle": "The authors examined the long-term patterns of educational gender disparities in sub-Saharan Africa. Although not a core variable of the article, Africapolis is used to understand how urban agglomeration and the presence of cities correlates with educational gender gaps in sub-Saharan Africa. Urban agglomeration in sub-Saharan Africa was consistently associated with lower gender disparities in education. "
+      },
+      {
+        "id": 8,
+        "image": "child-health-across-the-rural-urban-spectrum-",
+        "url": "child-health-across-the-rural-urban-spectrum-",
+        "title": "Child Health across the Rural-Urban Spectrum\u00a0",
+        "subTitle": "Is urban life good or bad for children’s health? And are certain urban areas more conducive to child health than others? The article explores the role of urbanization in sanitation infrastructures and child health through a study of 40,000 children from 10 African countries."
+      },
+      {
+        "id": 9,
+        "image": "morphological-traits-of-informality-in-sub-saharan-african-cities-",
+        "url": "morphological-traits-of-informality-in-sub-saharan-african-cities-",
+        "title": "Morphological traits of informality in Sub-Saharan African cities\u00a0",
+        "subTitle": "A large part of the urban population in Sub-Saharan Africa lives in areas characterised by urban informality.  As informality has become in many places the rule rather than the exception, the emergence of new geographical information tools represents potential research methods in morphological studies of complex urban environments."
+      },
+      {
+        "id": 10,
+        "image": "patterns-of-urbanisation-and-economic-development--evidence-from-household-surveys-in-ethiopia",
+        "url": "patterns-of-urbanisation-and-economic-development--evidence-from-household-surveys-in-ethiopia",
+        "title": "Patterns of Urbanisation and Economic Development, Evidence from household surveys in Ethiopia",
+        "subTitle": "In this piece, researcher Mekdim D. Regassa illustrates the different ways in which the Africapolis dataset was used to assess how urbanization determines the spatial pattern of economic development in sub-Saharan Africa."
+      },
+      {
+        "id": 11,
+        "image": "-mapping-urban-green-space-across-africa",
+        "url": "-mapping-urban-green-space-across-africa",
+        "title": " Mapping urban green space across Africa",
+        "subTitle": "Disasters due to natural hazards have affected approximately half a billion people on the continent and resulted in significant displacement, casualties, and economic loss in the past 50 years."
+    },
+    {
+      "id": 12,
+      "image": "-african-urban-forms--mapping-resilience-to-climate-change",
+      "url": "-african-urban-forms--mapping-resilience-to-climate-change",
+      "title": "African urban forms: mapping resilience to climate change",
+      "subTitle": "Africa is experiencing a significant urban and climate transition. This analysis uses new methods and data to assess compactness and urban form attributes across 5,625 urban areas. It finds that very large cities (over 4 million people) are more compact than smaller and intermediate cities."
+    },
+    {
+      "id": 13,
+      "image": "from-the-fine-spatialization-of-urban-data-in-africa-to-unidentified-geographical-objects",
+      "url": "from-the-fine-spatialization-of-urban-data-in-africa-to-unidentified-geographical-objects",
+      "title": "From the fine spatialization of urban data in Africa to unidentified geographical objects",
+      "subTitle": "Africa is undergoing rapid urbanisation, transforming landscapes and societies. This phenomenon presents unique challenges and opportunities for development, necessitating detailed study to guide public sector action."
+    },
+    {
+      "id": 14,
+      "image": "underlying-rules-of-evolutionary-urban-systems-in-africa",
+      "url": "underlying-rules-of-evolutionary-urban-systems-in-africa",
+      "title": "Underlying Rules of Evolutionary Urban Systems in Africa",
+      "subTitle": "Urban systems, as they evolve, exhibit patterns that follow certain underlying rules, which can be represented through simple mathematical models such as Zipf’s Law (rank-size rule), Gibrat’s Law (proportionate growth), and scaling law."
+    },
+    {
+      "id": 15,
+      "image": "shorthand_cluster",
+      "url": "https://oecd-swac.shorthandstories.com/city-clusters-in-africa/index.html",
+      "title": "City clusters in Africa",
+      "subTitle": "City clusters are the backbone of many successful economies. Well-integrated clusters can create economic ecosystems much larger than those of a single city, offering a new opportunity for economic development and regional integration in Africa."
+    }
+
+
+    ]
+  },
+  "dataResearch": {
+    "title": "Research",
+    "list": [
+      {
+        "id": 1,
+        "image": "SCI",
+        "url": "https://africapolis.org/sci/",
+        "title": "Social Connectedness Index",
+        "subTitle": "This index measures the strength of connectedness between two geographic areas as represented by Facebook friendship ties. SCI can reveal important insights about economics, social mobility, and health."
+      },
+      {
+        "id": 2,
+        "image": "RoadNetwork",
+        "url": "https://africapolis.org/network",
+        "title": "Africapolis Road Network Simulator",
+        "subTitle": "To compare the scenario where borders create significant journey frictions and where they create no delays, we leverage data from OpenStreetMap, and data from Africapolis to obtain the location and size of all urban agglomerations with more than 100,000 inhabitants and also smaller cities near major roads to construct a connected network of all cities."
+      }
+    ]
+  }
+}

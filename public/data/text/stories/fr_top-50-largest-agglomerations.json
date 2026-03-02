@@ -1,0 +1,54 @@
+{
+  "title": "Les 50 plus grandes agglomérations en Afrique",
+  "url": "top-50-agglomerations",
+  "list": [
+    {
+      "type": "image",
+      "url": "50-population"
+    },
+    {
+      "type": "text",
+      "subtitle": "LES PLUS GRANDES AGGLOMÉRATIONS PAR POPULATION"
+    },
+    {
+      "type": "text",
+      "item": "Parmi les cinq plus grandes agglomérations d’Afrique se trouvent quatre centres bien connus de commerce international, de médias et d'élaboration des politiques : Le Caire, Lagos, Johannesburg et Kinshasa. La troisième zone urbaine du continent, Onitsha (Nigéria), qui compte 8.5 millions d’habitants, n’est cependant pas (encore) un nom familier. Une grande zone urbaine émerge, tirée par la croissance et la fusion de zones bâties formant une grande agglomération."
+    },
+    {
+      "type": "image",
+      "url": "50-builtup"
+    },
+    {
+      "type": "text",
+      "subtitle": "LES PLUS GRANDES AGGLOMERATIONS PAR BÂTI URBAIN"
+    },
+    {
+      "type": "text",
+      "item": "Vingt des 50 plus grandes agglomérations par surface bâtie se trouvent au Nigéria et au Kenya. L’expansion des zones bâties est l’un des principaux moteurs de la croissance urbaine en Afrique, elle entraîne l’absorption et la fusion d’agglomérations urbaines et de foyers de peuplement plus petits. Les caractéristiques environnementales, telles que le relief et l'utilisation des sols, ont une incidence sur les formes urbaines et la taille des zones bâties."
+    },
+    {
+      "type": "image",
+      "url": "50-densest"
+    },
+    {
+      "type": "text",
+      "subtitle": "LES AGGLOMÉRATIONS LES PLUS DENSES"
+    },
+    {
+      "type": "text",
+      "item": "Quarante-cinq des 50 zones urbaines ayant la plus forte densité d'habitants au kilomètre carré se trouvent en Égypte. Les formes urbaines sont influencées par divers facteurs : l’histoire, la culture, la politique et l’environnement. L’aridité du climat égyptien est à l’origine d’un régime particulier d’utilisation des sols, qui entraîne des densités de population exceptionnellement élevées."
+    },
+    {
+      "type": "image",
+      "url": "50-connection"
+    },
+    {
+      "type": "text",
+      "subtitle": "LES AGGLOMÉRATIONS LES MOINS CONNECTÉES"
+    },
+    {
+      "type": "text",
+      "item": "Quelques 90% des agglomérations les moins connectées se trouvent dans le Sahara et le désert du Kalahari. La carte fonctionne comme un diagramme de Voronoï dans lequel la taille de chaque cellule dépend de la distance entre deux agglomérations, toutes deux comprises dans la cellule. Les grandes cellules indiquent un réseau urbain moins dense."
+    }
+  ]
+}

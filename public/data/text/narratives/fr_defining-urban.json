@@ -1,0 +1,37 @@
+{
+  "title": "DÉFINIR L'URBAIN",
+  "url": "defining-urban",
+  "list": [
+    {
+      "type": "image",
+      "url": "defining-1"
+    },
+    {
+      "type": "text",
+      "subtitle": "Urbain, un mot sans définition universelle",
+      "item": "Il n’existe pas de définition universelle (ou couramment admise) de la ville ou de l’agglomération urbaine. Le mot « ville » renvoie généralement à une unité politico-administrative dont les limites et le statut juridique sont définis par les autorités nationales en fonction de critères, contextes et objectifs administratifs, politiques et fonctionnels divers."
+    },
+    {
+      "type": "text",      
+      "item": "La notion d’« urbain » est souvent confondue avec le sens du mot « ville ». Ces définitions varient d'un pays à l'autre, et parfois au fil du temps dans un même pays. Les différences entre les définitions se reflètent dans les données collectées et sont souvent reproduites au sein des comparaisons internationales. L'hétérogénéité des données fournies par les statistiques nationales est un obstacle à la comparaison et à l’analyse de l'urbanisation entre pays. Ce problème était déjà identifié dans l'Encyclopedia Britannica de 1929 : « Les recensements de la plupart des pays classent la population en urbaine et rurale mais, bien que ces chiffres soient utiles pour comparer les évolutions dans un même pays entre deux dates, ils ne sont guère utiles lorsqu’il s’agit de comparer deux pays. En effet, la classification repose sur des méthodes très différentes selon les pays »."
+    },
+    {
+      "type": "text",      
+      "item": "La plupart des définitions sont basées sur des critères administratifs, numériques et fonctionnels ou sur la combinaison de ces trois critères. En Afrique, les critères les plus largement utilisés sont administratifs (25 pays), mixtes (15 pays) ou numériques (13 pays, allant de 1 500 à 30 000 habitants).Cependant, dans tous les pays, les définitions de la ville tiennent compte d’unités administratives. Les limites des unités administratives sont précises et fixes. Cependant, en réalité, les villes sont vivantes. Elles évoluent, se développent et croissent, souvent au-delà de leurs limites administratives."
+    },
+    {
+      "type": "text",
+      "subtitle": "Africapolis, une définition spatiale normalisée de l'urbain",
+      "item": "Africapolis, version continentale de l'initiative mondiale e-Geopolis, est conçue pour permettre des analyses comparatives et à long terme des dynamiques d'urbanisation en Afrique. Africapolis repose sur une approche spatiale et applique un critère physique (une zone bâtie en continu), ainsi qu’un critère démographique (plus de 10 000 habitants) pour définir une agglomération urbaine. Une unité urbaine est définie en combinant des images satellitaires et aériennes, des données démographiques officielles telles que des recensements, et d’autres sources cartographiques. Contrairement aux villes, dont les limites sont fixes, les agglomérations définies par Africapolis sont des unités dont la forme, le contenu et les limites exactes varient dans le temps, en fonction de l'évolution de l'environnement bâti. Quelle est la méthode ? La première étape consiste à détecter les zones bâties en continu à partir d'images satellitaires (et d'images aériennes pour les données antérieures). Selon Africapolis, une zone de bâti continu est une étendue dont les bâtiments ou constructions sont séparés par moins de 200 mètres. Les bâtiments peuvent être résidentiels, industriels ou administratifs, ou être des infrastructures telles que des routes, des ponts ou des ports. On superpose ensuite à la zone identifiée une carte des plus petites unités administratives officiellement définies par le pays. Ces unités administratives locales constituent la base, nourrie par les statistiques nationales, en particulier les recensements de population. La population de toutes les unités administratives couvertes par au moins 50 % de la zone de bâti continu est comptée comme population de l'agglomération. Africapolis considére qu’une agglomération est urbaine à partir du seuil minimum de 10 000 habitants. Enfin, l'agglomération prend le nom de l'unité administrative locale la plus élevée dans la hiérarchie administrative, et/ou la plus peuplée. Les 13 000 agglomérations identifiées par Africapolis coïncideront dans bien des cas avec la ville telle qu’elle est définie par les autorités nationales, mais la notion d'agglomération est plus inclusive et flexible. L'exemple de Maputo-Matola au Mozambique met en évidence le recoupement et la différence entre les villes et les agglomérations. En effet, Maputo et Matola sont officiellement définies comme urbaines, mais elles sont traitées comme des villes distinctes. Parallèlement, plusieurs unités administratives locales voisines sont officiellement rurales, mais entièrement ou partiellement couvertes par la zone bâtie de l'agglomération de Maputo. La définition d’Africapolis n’est sans aucun doute pas adaptée à tous les contextes et objectifs, pas plus qu’elle n’a vocation à remettre en cause les définitions officielles. Cependant, elle fournit des données comparables et vérifiables reposant sur une compréhension partagée des zones urbaines, utilisant un critère physique recommandé par les Nations Unies et utilisé dans plusieurs pays, qui permet à la fois de comparer et de mieux comprendre les dynamiques d'urbanisation, et d'évaluer les politiques urbaines en Afrique."
+    },
+    {
+      "type": "image",
+      "url": "defining-2"
+    },
+    {
+      "type": "text",
+      "subtitle": "Des observations de terrain aux données destinées aux politiques urbaines",
+      "item": "La définition choisie aura peu d’incidences sur la réalité de nombreux habitants de Matola, ils savent qu’ils vivent dans la même agglomération, sans limite visible indiquant qu’une ville se termine et que l’autre commence. Africapolis fournit à bien des égards une définition des agglomérations plus proche de la réalité des zones urbaines et des villes : une interconnexion et un flux de personnes, d'idées et d'activités. De plus, en se concentrant sur l’environnement bâti, Africapolis aide à détecter certains des principaux moteurs de la croissance urbaine en Afrique, l’émergence de centaines de petites villes et la croissance de zones bâties entraînant l’émergence de grandes agglomérations par l’absorption de petits foyers de peuplement, la fusion et la densification (urbanisation in situ). La base de données Africapolis s’adresse aux chercheurs, universitaires, décideurs et urbanistes. Elle leur permet de générer des données factuelles sur les dynamiques d’urbanisation et contribue ainsi à rendre les zones urbaines plus inclusives, productives et durables."
+    }
+  ]
+}
