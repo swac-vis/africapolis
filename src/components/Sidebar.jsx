@@ -18,7 +18,7 @@ const navItems = [
   { path: '/about', labelKey: 'nav.about' },
 ]
 
-export default function Sidebar({ t, mobileOpen, onMobileClose }) {
+export default function Sidebar({ t, mobileOpen, onMobileClose, collapsed, onToggleCollapse }) {
   const location = useLocation()
 
   const handleAnchorClick = (e, hash) => {
@@ -44,8 +44,8 @@ export default function Sidebar({ t, mobileOpen, onMobileClose }) {
           aria-label={t('nav.closeMenu')}
         />
       )}
-      <aside className={`sidebar ${mobileOpen ? 'sidebar--mobile-open' : ''}`}>
-      <nav className="sidebar__nav">
+      <aside className={`sidebar ${mobileOpen ? 'sidebar--mobile-open' : ''} ${collapsed ? 'sidebar--collapsed' : ''}`}>
+      <nav className="sidebar__nav" aria-hidden={collapsed}>
         {navItems.map((item) => {
           const isActive = location.pathname === item.path
           const hasAnchors = item.anchors && item.anchors.length > 0
@@ -101,7 +101,16 @@ export default function Sidebar({ t, mobileOpen, onMobileClose }) {
           )
         })}
       </nav>
-    </aside>
+      <button
+        type="button"
+        className="sidebar__toggle"
+        onClick={onToggleCollapse}
+        aria-label={collapsed ? t('nav.expandSidebar') : t('nav.collapseSidebar')}
+        title={collapsed ? t('nav.expandSidebar') : t('nav.collapseSidebar')}
+      >
+        <span className="sidebar__toggle-icon">{collapsed ? '›' : '‹'}</span>
+      </button>
+      </aside>
     </>
   )
 }

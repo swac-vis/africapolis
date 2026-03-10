@@ -5,7 +5,7 @@ const REGION_EN_TO_FR = { 'Central Africa': 'Afrique centrale', 'East Africa': '
 
 function formatNumber(v) {
   if (v == null || Number.isNaN(v)) return null
-  return Math.round(Number(v)).toLocaleString()
+  return Math.round(Number(v)).toLocaleString().replace(/,|\u00A0/g, ' ')
 }
 
 function formatPercent(v) {

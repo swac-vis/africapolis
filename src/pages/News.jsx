@@ -3,7 +3,20 @@ import { useLang } from '../contexts/LangContext'
 import { asset } from '../config/base'
 
 const MEDIA_SHOW = 8
+const NEWSLETTER_SHOW = 6
 const EVENTS_SHOW = 6
+const MEDIA_CARDS_PER_ROW = 4
+
+function parseMediaTitle(title) {
+  const dateMatch = (title || '').match(/(\d{2})\/(\d{2})\/(\d{4})$/)
+  const dateStr = dateMatch ? dateMatch[0] : ''
+  const dateDisplay = dateStr ? dateStr.replace(/\//g, '.') : ''
+  const rest = (title || '').replace(/, \d{2}\/\d{2}\/\d{4}$/, '').trim()
+  const commaIdx = rest.indexOf(', ')
+  const outlet = commaIdx >= 0 ? rest.slice(0, commaIdx).trim() : rest
+  const articleTitle = commaIdx >= 0 ? rest.slice(commaIdx + 2).trim() : rest
+  return { outlet, articleTitle, dateDisplay, dateStr }
+}
 
 export default function News() {
   const { t, lang } = useLang()
@@ -11,6 +24,7 @@ export default function News() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [showAllMedia, setShowAllMedia] = useState(false)
+  const [showAllNewsletter, setShowAllNewsletter] = useState(false)
 
   useEffect(() => {
     setLoading(true)
@@ -35,9 +49,21 @@ export default function News() {
   const imageBase = asset('image/about/newsletter/')
   const eventsImageBase = asset('image/events/')
 
-  const mediaList = media?.list ?? []
+  const rawMediaList = (media?.list ?? []).filter((item) => item.inclusionFilter === 'Yes')
+  // Sort by date (DD/MM/YYYY at end of title), most recent first
+  const mediaList = [...rawMediaList].sort((a, b) => {
+    const parseDate = (title) => {
+      const m = (title || '').match(/(\d{2})\/(\d{2})\/(\d{4})$/);
+      return m ? new Date(Number(m[3]), Number(m[2]) - 1, Number(m[1])) : new Date(0);
+    };
+    return parseDate(b.title) - parseDate(a.title);
+  })
   const displayedMedia = showAllMedia ? mediaList : mediaList.slice(0, MEDIA_SHOW)
   const hasMoreMedia = mediaList.length > MEDIA_SHOW
+
+  const newsletterList = newsletter?.list ?? []
+  const displayedNewsletter = showAllNewsletter ? newsletterList : newsletterList.slice(0, NEWSLETTER_SHOW)
+  const hasMoreNewsletter = newsletterList.length > NEWSLETTER_SHOW
 
   const eventList = events?.list ?? []
   const displayedEvents = eventList.slice(0, EVENTS_SHOW)
@@ -61,7 +87,7 @@ export default function News() {
       {newsletter?.list?.length > 0 && (
         <>
           <section className="newsletter-grid" aria-label={newsletter.title}>
-            {newsletter.list.map((item) => (
+            {displayedNewsletter.map((item) => (
               <article key={item.id} className="newsletter-card">
                 <a href={item.url} target="_blank" rel="noopener noreferrer" className="newsletter-card__link">
                   <div className="newsletter-card__image-wrap">
@@ -80,31 +106,55 @@ export default function News() {
               </article>
             ))}
           </section>
+          {hasMoreNewsletter && (
+            <div className="press-grid__load">
+              <button
+                type="button"
+                className="press-load-more"
+                onClick={() => setShowAllNewsletter(!showAllNewsletter)}
+              >
+                {showAllNewsletter ? t('pages.news.showLess') : t('pages.news.showMore')}
+              </button>
+            </div>
+          )}
         </>
       )}
 
-      {/* In The Media */}
+      {/* In The Media – press highlight cards */}
       {media?.list?.length > 0 && (
         <>
           <h2 className="news__section-title">{media.title.toUpperCase()}</h2>
-          <ul className="media-list">
-            {displayedMedia.map((item) => (
-              <li key={item.id} className="media-list__item">
-                <a href={item.url} target="_blank" rel="noopener noreferrer" className="media-list__link">
-                  {item.title}
-                </a>
-              </li>
-            ))}
-          </ul>
-          {hasMoreMedia && !showAllMedia && (
-            <button
-              type="button"
-              className="newsletter-card__btn"
-              style={{ marginTop: '0.5rem' }}
-              onClick={() => setShowAllMedia(true)}
-            >
-              {t('pages.news.showMore')}
-            </button>
+          <div className="press-grid">
+            {displayedMedia.map((item) => {
+              const { outlet, articleTitle, dateDisplay } = parseMediaTitle(item.title)
+              const snippet = (item.details && item.details.trim()) || (articleTitle.length > 100 ? articleTitle.slice(0, 100).trim() + '…' : articleTitle)
+              return (
+                <article key={item.id} className="press-card">
+                  <a href={item.url} target="_blank" rel="noopener noreferrer" className="press-card__link">
+                    <div className="press-card__header">
+                      <span className="press-card__label">Press Highlight</span>
+                      <div className="press-card__header-right">
+                        {dateDisplay && <time className="press-card__date">{dateDisplay}</time>}
+                        {outlet && <span className="press-card__source">{outlet}</span>}
+                      </div>
+                    </div>
+                    <h3 className="press-card__title">{articleTitle}</h3>
+                    <p className="press-card__snippet">{snippet}</p>
+                  </a>
+                </article>
+              )
+            })}
+          </div>
+          {hasMoreMedia && (
+            <div className="press-grid__load">
+              <button
+                type="button"
+                className="press-load-more"
+                onClick={() => setShowAllMedia(!showAllMedia)}
+              >
+                {showAllMedia ? t('pages.news.showLess') : t('pages.news.showMore')}
+              </button>
+            </div>
           )}
         </>
       )}

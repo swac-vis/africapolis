@@ -2,7 +2,7 @@ export const translations = {
   en: {
     nav: {
       home: 'Home',
-      data: 'Data',
+      data: 'Data and Map',
       dataData: 'Data',
       dataMap: 'Map',
       library: 'Library',
@@ -10,6 +10,8 @@ export const translations = {
       about: 'About',
       openMenu: 'Open menu',
       closeMenu: 'Close menu',
+      collapseSidebar: 'Collapse sidebar',
+      expandSidebar: 'Expand sidebar',
     },
     langToggle: {
       title: 'Switch to French',
@@ -22,7 +24,7 @@ export const translations = {
         mapLabel: 'Africapolis map',
         openMap: 'Open full map',
         column1Title: 'Africapolis: Visualise urbanisation in Africa',
-        column1Body: 'How does urbanisation evolve across the continent? Africapolis is a research and data visualisation tool used to map, analyse and understand urbanisation and urban growth in Africa. This interactive site allows you to explore 13,000+ urban agglomerations in 54 countries, from 1950 to 2050.',
+        column1Body: 'How does urbanisation evolve across the continent? Africapolis is a research and data visualisation tool used to map, analyse and understand urbanisation and urban growth in Africa. This interactive site allows you to explore 13 000+ urban agglomerations in 54 countries, from 1950 to 2050.',
         column1Link: "Explore the map",
         column2Title: 'Why it matters',
         column2Body: 'In 2015, more than 50% of Africans lived in urban agglomerations. Cities and urban planning are key to delivering on the SDGs and a New Urban Agenda. By 2050, Africa\'s urban areas will be home to an additional 950 million people. Comparable data on regional urbanisation helps policymakers and communities act for more inclusive and sustainable cities.',
@@ -186,6 +188,7 @@ export const translations = {
         subscribe: 'Subscribe to Our Newsletter',
         inTheMedia: 'In The Media',
         showMore: 'Show More',
+        showLess: 'Show Less',
         events: 'Events',
         moreDetails: 'More details',
       },
@@ -201,7 +204,7 @@ export const translations = {
   fr: {
     nav: {
       home: 'Accueil',
-      data: 'Données',
+      data: 'Données et Carte',
       dataData: 'Données',
       dataMap: 'Carte',
       library: 'Bibliothèque',
@@ -209,6 +212,8 @@ export const translations = {
       about: 'À propos',
       openMenu: 'Ouvrir le menu',
       closeMenu: 'Fermer le menu',
+      collapseSidebar: 'Réduire le menu',
+      expandSidebar: 'Ouvrir le menu',
     },
     langToggle: {
       title: 'Passer en anglais',
@@ -385,6 +390,7 @@ export const translations = {
         subscribe: 'Abonnez-vous à notre newsletter',
         inTheMedia: 'Dans les médias',
         showMore: 'Voir plus',
+        showLess: 'Voir moins',
         events: 'Événements',
         moreDetails: 'Plus de détails',
       },

@@ -46,7 +46,7 @@ export default function LineChart({ data, width = 480, height = 260, margin = { 
       .style('fill', '#64748b')
 
     g.append('g')
-      .call(d3.axisLeft(y).ticks(5))
+      .call(d3.axisLeft(y).ticks(5).tickFormat((d) => Number(d).toLocaleString().replace(/,|\u00A0/g, ' ')))
       .selectAll('text')
       .style('font-size', '10px')
       .style('fill', '#64748b')

@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useLang } from '../contexts/LangContext'
 import { asset } from '../config/base'
 
@@ -68,14 +69,17 @@ export default function About() {
         {narratives.length > 0 && (
           <div className="about__narratives">
             {narratives.map((item) => (
-              <figure key={item.id} className="about__narrative-card">
+              <Link key={item.id} to={`/about/${item.url}`} className="about__narrative-card">
                 <img
                   src={`${aboutImageBase}${item.image}.png`}
                   alt=""
                   className="about__narrative-img"
                 />
-                <figcaption className="about__narrative-caption">{item.subTitle}</figcaption>
-              </figure>
+                <div className="about__narrative-caption-wrap">
+                  {item.title && <span className="about__narrative-title">{item.title}</span>}
+                  <span className="about__narrative-caption">{item.subTitle}</span>
+                </div>
+              </Link>
             ))}
           </div>
         )}

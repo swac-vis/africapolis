@@ -12,8 +12,8 @@ const CLIMATE_METRICS = [
   { key: 'street_length_avg', labelKey: 'pages.dataMap.statAvgStreetLength', tooltipKey: 'pages.dataMap.statAvgStreetLengthDesc', format: (v) => (v != null ? Number(v).toFixed(2) : '—') },
   { key: 'int_density', labelKey: 'pages.dataMap.statIntDensity', tooltipKey: 'pages.dataMap.statIntDensityDesc', format: (v) => (v != null ? Number(v).toFixed(2) : '—') },
   { key: 'PM2.5', labelKey: 'pages.dataMap.statPM25', tooltipKey: 'pages.dataMap.statPM25Desc', format: (v) => (v != null ? Number(v).toFixed(2) : '—') },
-  { key: 'TotalFootprintCentre1km', labelKey: 'pages.dataMap.statTotalFootprint1km', tooltipKey: 'pages.dataMap.statTotalFootprint1kmDesc', format: (v) => (v != null ? Math.round(Number(v)).toLocaleString() : '—') },
-  { key: 'TotalFootprintCentre3km', labelKey: 'pages.dataMap.statTotalFootprint3km', tooltipKey: 'pages.dataMap.statTotalFootprint3kmDesc', format: (v) => (v != null ? Math.round(Number(v)).toLocaleString() : '—') },
+  { key: 'TotalFootprintCentre1km', labelKey: 'pages.dataMap.statTotalFootprint1km', tooltipKey: 'pages.dataMap.statTotalFootprint1kmDesc', format: (v) => (v != null ? Math.round(Number(v)).toLocaleString().replace(/,|\u00A0/g, ' ') : '—') },
+  { key: 'TotalFootprintCentre3km', labelKey: 'pages.dataMap.statTotalFootprint3km', tooltipKey: 'pages.dataMap.statTotalFootprint3kmDesc', format: (v) => (v != null ? Math.round(Number(v)).toLocaleString().replace(/,|\u00A0/g, ' ') : '—') },
 ]
 
 function ClimateStatsPanel({ name, year, props, indicator }) {
