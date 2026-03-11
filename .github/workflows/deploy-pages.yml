@@ -37,6 +37,11 @@ jobs:
           VITE_BASE: '/africapolis/'
         run: npm run build
 
+      # GitHub Pages has no SPA fallback: /data/map etc. would 404. Serve index.html as 404
+      # so the client-side router can handle the URL.
+      - name: SPA fallback for GitHub Pages
+        run: cp dist/index.html dist/404.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
