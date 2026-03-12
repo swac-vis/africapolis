@@ -7,6 +7,8 @@ import Sidebar from './components/Sidebar'
 import Home from './pages/Home'
 import Data from './pages/Data'
 import DataMap from './pages/DataMap'
+import Analyses from './pages/Analyses'
+import CountryNotes from './pages/CountryNotes'
 import Library from './pages/Library'
 import News from './pages/News'
 import About from './pages/About'
@@ -64,6 +66,8 @@ function AppContent() {
             <Route path="/" element={<Home />} />
             <Route path="/data/map" element={<DataMap />} />
             <Route path="/data" element={<Data />} />
+            <Route path="/analyses" element={<Analyses />} />
+            <Route path="/analyses/country-notes" element={<CountryNotes />} />
             <Route path="/library" element={<Library />} />
             <Route path="/library/research/:story" element={<Article parent="research" />} />
             <Route path="/news" element={<News />} />

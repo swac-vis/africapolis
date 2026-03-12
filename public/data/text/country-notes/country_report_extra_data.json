@@ -1,0 +1,1818 @@
+{
+  "AGO": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 35,
+      "score": 23
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 35,
+      "score": 23
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério do Ordenamento do Território e Habitação (MINOPUH) [Ministry of Spatial Planning and Housing]",
+      "strategy": "Política Nacional do ordenamento do território e urbanismo (PNOTU) - Angola's National Policy on Territorial Planning and Urbanism 2016-36",
+      "plan": "Plano Director Municipal"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Luanda",
+          "population2020": 8310000.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "BDI": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 11,
+      "score": 30
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 11,
+      "score": 30
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Eau, de l'Environnement, de l'Aménagement du Territoire et de l'Urbanisme (MEEATU) [Ministry of Water, Environment, Spatial and Urban Planning]",
+      "strategy": "Vision Burundi 2025",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU)"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Bujumbura",
+          "population2020": 1905675.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "BEN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 13,
+      "score": 29
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 13,
+      "score": 29
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère du Cadre de Vie et du Développement Durable (MCVDD) [Ministry of Living Conditions and Sustainable Development]",
+      "strategy": "Schéma National d’Aménagement du Territoire (encore dénommé Agenda Spatial) 2016-25",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU)"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Cotonou",
+          "population2020": 1940485.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "BFA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 16,
+      "score": 28
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 16,
+      "score": 28
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l’Urbanisme, des Affaires Foncières et de l’Habitat [Ministry of Urban Planning, Land and Housing]",
+      "strategy": "Schéma National d'Aménagement et de Dévéloppement Durable du Territoire (SNADDT) 2040",
+      "plan": "Schéma directeur d’aménagement urbain"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Ouagadougou",
+          "population2020": 2851793.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "BWA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 27,
+      "score": 25
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 27,
+      "score": 25
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands and Water Affairs (Department of Town & Country Planning)",
+      "strategy": "N/A",
+      "plan": "Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "CAF": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 50,
+      "score": 15
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 50,
+      "score": 15
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme de la Ville et de l'Habitat [Ministry of Urban Planning and Housing]",
+      "strategy": "N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Bangui",
+          "population2020": 1389150.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "CIV": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 28,
+      "score": 25
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 28,
+      "score": 25
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de la Construction, du Logement et de l'Urbanisme (MCLU) [Ministry of Construction, Housing and Urbanism]",
+      "strategy": "Pre-Bilan Aménagement du Territoire 2006-25",
+      "plan": "Schéma de perspectives décennales, Plan d’Urbanisme Directeur (PUDi)"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Abidjan",
+          "population2020": 5877152.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "CMR": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 14,
+      "score": 29
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 14,
+      "score": 29
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Housing and Urban Development (MINHDU)",
+      "strategy": "Schéma National d'Aménagement et de Développement Durable du Territoire du Cameroun (SNADDT) 2017-30",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU) ; Plan directeur urbain"
+    },
+    "large_agglomerations": {
+      "count": 3,
+      "agglomerations": [
+        {
+          "name": "Yaounde",
+          "population2020": 4720000.0
+        },
+        {
+          "name": "Douala",
+          "population2020": 3355000.0
+        },
+        {
+          "name": "Bafoussam",
+          "population2020": 1194000.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "COD": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 48,
+      "score": 18
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 48,
+      "score": 18
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme et Habitat [Ministry of Urbanism and Housing]",
+      "strategy": "Schema National d'amenagement du territoire de la Republique du Congo (SNAT), 2005-25",
+      "plan": "Plan directeur d’aménagement"
+    },
+    "large_agglomerations": {
+      "count": 5,
+      "agglomerations": [
+        {
+          "name": "Kinshasa",
+          "population2020": 9850000.0
+        },
+        {
+          "name": "Lubumbashi",
+          "population2020": 3050000.0
+        },
+        {
+          "name": "Mbuji-Mayi",
+          "population2020": 1300000.0
+        },
+        {
+          "name": "Goma",
+          "population2020": 1165000.0
+        },
+        {
+          "name": "Bukavu",
+          "population2020": 1130000.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "COG": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 43,
+      "score": 20
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 43,
+      "score": 20
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Aménagement du Territoire [Ministry of Spatial Planning]",
+      "strategy": "Politique nationale d'aménagement du territoire",
+      "plan": "Schéma directeur d’urbanisme"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Brazzaville",
+          "population2020": 2031742.0
+        },
+        {
+          "name": "Pointe Noire",
+          "population2020": 1058244.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "COM": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 39,
+      "score": 22
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 39,
+      "score": 22
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Aménagement du Territoire, des Infrastructures, de l'Urbanisme et de l'Habitat [Ministry of Spatial Planning, Infrastructure, Urban Planning and Housing]",
+      "strategy": "in progress",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "CPV": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 17,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 17,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério das Infraestruturas, do Ordenamento do Território e Habitação (MIOTH) [Ministry of Infrastructure, Spatial Planning and Housing]",
+      "strategy": "Política Nacional do ordenamento do território e urbanismo (PNOTU) - Cabo Verde National Policy on Territorial Planning and Urbanism 2017-37",
+      "plan": "Plano Director Municipal"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "DJI": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 29,
+      "score": 25
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 29,
+      "score": 25
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Habitat, de l'Urbanisme et de l'Environnement [Ministry of Housing, Town Planning and the Environment]",
+      "strategy": "N/A",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU)"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "DZA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 40,
+      "score": 22
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 40,
+      "score": 22
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l’Habitat, de l’Urbanisme et de la Ville (MHUV) [Ministry of Housing, Urban Planning and the City]",
+      "strategy": "Schéma national de l'amèngement du territoire 2010-30",
+      "plan": "Plan directeur d’aménagement et d’urbanisme de la wilaya (PDAU)"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Algiers",
+          "population2020": 4764853.0
+        },
+        {
+          "name": "Oran",
+          "population2020": 1432300.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "EGY": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 49,
+      "score": 18
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 49,
+      "score": 18
+    },
+    "urban_planning_en": {
+      "Ministry": "وزارة الإسكان والمرافق والمجتمعات العمرانية   [Ministry of Housing, Utilities and Urban Communities (MoHUUC)]",
+      "strategy": "in progress",
+      "plan": "مشروع المخطط الاستراتيجي"
+    },
+    "large_agglomerations": {
+      "count": 6,
+      "agglomerations": [
+        {
+          "name": "Cairo",
+          "population2020": 38427874.0
+        },
+        {
+          "name": "Suhag/Asiut",
+          "population2020": 9806898.0
+        },
+        {
+          "name": "Alexandria",
+          "population2020": 7774773.0
+        },
+        {
+          "name": "al-Mansura",
+          "population2020": 2345182.0
+        },
+        {
+          "name": "al-Fayyum",
+          "population2020": 2255673.0
+        },
+        {
+          "name": "Dumyat",
+          "population2020": 1174315.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "ERI": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 44,
+      "score": 20
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 44,
+      "score": 20
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Land, Water and Environment",
+      "strategy": "N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "ETH": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 32,
+      "score": 24
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 32,
+      "score": 24
+    },
+    "urban_planning_en": {
+      "Ministry": "የከተማ ፕላን፣ ቤቶች እና የህዝብ ንፅህና ሚኒስቴር  [Ministry of Urban and Infrastructure]",
+      "strategy": "N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 3,
+      "agglomerations": [
+        {
+          "name": "Addis Ababa",
+          "population2020": 4273817.0
+        },
+        {
+          "name": "Sodo",
+          "population2020": 2878949.0
+        },
+        {
+          "name": "Hawassa",
+          "population2020": 2706920.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GAB": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 30,
+      "score": 25
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 30,
+      "score": 25
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Habitat, de l'Urbanisme et du Cadastre [Ministry of Housing, Urban Planning and Land Registry]",
+      "strategy": "in progress",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU)"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GHA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 9,
+      "score": 31
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 9,
+      "score": 31
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Local Government, Decentralisation and Rural Development (MLGDRD), Land Use and Spatial Planning Authority",
+      "strategy": "National spatial development framework",
+      "plan": "Structure Plan"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Accra",
+          "population2020": 4697074.0
+        },
+        {
+          "name": "Kumasi",
+          "population2020": 3227994.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GIN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 41,
+      "score": 22
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 41,
+      "score": 22
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme de l'Habitat et de l'Aménagement du Territoire (MUHAT) [Ministry of Urban Planning, Housing and Spatial Planning]",
+      "strategy": "Schéma National d'Aménagement du Territoire (SNAT) 1991-2020",
+      "plan": "Plan de développement urbain"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Conakry",
+          "population2020": 2699000.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GMB": {
+    "cee_en": {
+      "year": null,
+      "rank": 36,
+      "score": 23
+    },
+    "cee_fr": {
+      "year": null,
+      "rank": 36,
+      "score": 23
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands and Regional Government (MOLRG)",
+      "strategy": "N/A",
+      "plan": "Physical Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GNB": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 51,
+      "score": 15
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 51,
+      "score": 15
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério das Obras Públicas, Habitação e Urbanism [Ministry of Public Works, Housing and Urban Planning]",
+      "strategy": "N/A",
+      "plan": "Plano geral urbanístico; Plano General de Ordenación Urbana"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "GNQ": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 46,
+      "score": 19
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 46,
+      "score": 19
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério de Obras Públicas y Urbanismo [Ministry of Public Works and Urban Planning]",
+      "strategy": "N/A",
+      "plan": "Plan General de Ordenación Urbana de la ciudad"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "KEN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 5,
+      "score": 35
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 5,
+      "score": 35
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands, Public Works, Housing and Urban Development",
+      "strategy": "Kenya National Spatial Plan 2015 - 2045. Optimal Productivity, Sustainability, Efficiency and Equitability in the use of our Land and Territorial Space 2015-45",
+      "plan": "Strategic Urban Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Nairobi",
+          "population2020": 7573673.0
+        },
+        {
+          "name": "Mombasa",
+          "population2020": 1450790.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "LBR": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 45,
+      "score": 20
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 45,
+      "score": 20
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Public Works",
+      "strategy": "N/A",
+      "plan": "Spatial and urban plans"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Monrovia",
+          "population2020": 1587525.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "LBY": {
+    "cee_en": {
+      "year": null
+    },
+    "cee_fr": {
+      "year": null
+    },
+    "urban_planning_en": {
+      "Ministry": "Not available",
+      "strategy": "National Physical Perspective Plan 2006-2030",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Tripoli",
+          "population2020": 2323965.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "LSO": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 37,
+      "score": 23
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 37,
+      "score": 23
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Local Government, Chieftainship, Home Affairs and Police",
+      "strategy": "N/A",
+      "plan": "Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MAR": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 2,
+      "score": 38
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 2,
+      "score": 38
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l’Aménagement du Territoire National, de l’Urbanisme, de l’Habitat et de la Politique de la Ville [Ministry of National Spatial Planning, Urban Planning, Housing and Urban Policy]",
+      "strategy": "Schéma National d'Aménagement du Territoire SNAT, 2001-25",
+      "plan": "Schéma directeur d’aménagement urbain, Plan d'aménagement"
+    },
+    "large_agglomerations": {
+      "count": 6,
+      "agglomerations": [
+        {
+          "name": "Casablanca",
+          "population2020": 4872456.0
+        },
+        {
+          "name": "Rabat",
+          "population2020": 2150682.0
+        },
+        {
+          "name": "Fez",
+          "population2020": 1290244.0
+        },
+        {
+          "name": "Agadir",
+          "population2020": 1241584.0
+        },
+        {
+          "name": "Tangiers",
+          "population2020": 1175270.0
+        },
+        {
+          "name": "Marrakech",
+          "population2020": 1162834.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MDG": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 18,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 18,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de la Décentralisation et de l'Aménagement du Territoire (MDAT) [Ministry of Decentralisation and Spatial Planning]",
+      "strategy": "Schéma National des Orientations sectorielles et transversales à 10 ans, 2015-2025",
+      "plan": "Plan d'Urbanisme Directeur (PUDi)"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Antananarivo",
+          "population2020": 2863971.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MLI": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 19,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 19,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme de l'Habitat des Domaines, de l'Aménagement du Territoire et de la Population (MUHDATP) [Ministry of Urban Planning, Housing, Land, Spatial Planning and Population]",
+      "strategy": "Politique Nationale d'Aménagement du Territoire, 2022-41",
+      "plan": "Schéma directeur d'urbanisme"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Bamako",
+          "population2020": 3534153.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MOZ": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 33,
+      "score": 24
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 33,
+      "score": 24
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério da Terra e Ambiente [Ministry of Land and Environment]",
+      "strategy": "National Territorial Development Plan (PNDT), 2021-40",
+      "plan": "Plano de Estrutura Urbana"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Maputo",
+          "population2020": 2651417.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MRT": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 31,
+      "score": 25
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 31,
+      "score": 25
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Habitat, de l'Urbanisme et de l'Aménagement du Territoire (MHUAT) [Ministry of Housing, Urban Planning and Spatial Planning]",
+      "strategy": "N/A",
+      "plan": "Schéma directeur d’aménagement urbain"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Nouakchott",
+          "population2020": 1245643.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MUS": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 10,
+      "score": 31
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 10,
+      "score": 31
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Housing and Lands",
+      "strategy": "National Physical Development Plan 1994 replaced by National Development Strategy in 2003 (2003-23)",
+      "plan": "Outline Planning Scheme"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "MWI": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 20,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 20,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands, Department of Physical Planning",
+      "strategy": "National Physical Development Plan 1987. A new one is work in progress (nov 2024)https://www.citiesalliance.org/newsroom/news/spotlight/malawi-kicks-its-national-urban-policy-development-process",
+      "plan": "Structure Plan"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Blantyre",
+          "population2020": 1136478.0
+        },
+        {
+          "name": "Lilongwe",
+          "population2020": 1028076.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "NAM": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 21,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 21,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Urban and Rural Development (MURD)",
+      "strategy": "National Spatial Development Framework, 2004-30",
+      "plan": "Structure Plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "NER": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 22,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 22,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Aménagement du Territoire et du Développement Communautaire (MATDC) [Ministry of Spatial Planning and Community Development]",
+      "strategy": "in progress",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU), Plan urbain de référence"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Niamey",
+          "population2020": 1252318.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "NGA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 25,
+      "score": 26
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 25,
+      "score": 26
+    },
+    "urban_planning_en": {
+      "Ministry": "Federal Ministry of Housing and Urban Development (FMHUD)",
+      "strategy": "in progress",
+      "plan": "Spatial and Urban Plan"
+    },
+    "large_agglomerations": {
+      "count": 14,
+      "agglomerations": [
+        {
+          "name": "Lagos",
+          "population2020": 13799785.0
+        },
+        {
+          "name": "Onitsha",
+          "population2020": 8320664.0
+        },
+        {
+          "name": "Kano",
+          "population2020": 5487245.0
+        },
+        {
+          "name": "Ibadan",
+          "population2020": 3936156.0
+        },
+        {
+          "name": "Abuja",
+          "population2020": 3265077.0
+        },
+        {
+          "name": "Uyo",
+          "population2020": 2796493.0
+        },
+        {
+          "name": "Maiduguri",
+          "population2020": 2059410.0
+        },
+        {
+          "name": "Kaduna",
+          "population2020": 2044054.0
+        },
+        {
+          "name": "Benin City",
+          "population2020": 1587589.0
+        },
+        {
+          "name": "Ilorin",
+          "population2020": 1577534.0
+        },
+        {
+          "name": "Nsukka",
+          "population2020": 1456497.0
+        },
+        {
+          "name": "Osogbo",
+          "population2020": 1095067.0
+        },
+        {
+          "name": "Jos",
+          "population2020": 1093387.0
+        },
+        {
+          "name": "Katsina",
+          "population2020": 1087079.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "RWA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 7,
+      "score": 32
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 7,
+      "score": 32
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Infrastructure (MININFRA)",
+      "strategy": "National Land Use and Development Master Plan (NLUDMP), 2020-50",
+      "plan": "Masterplan for Land Management and Urban Planning; Local Land Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Kigali",
+          "population2020": 3000382.0
+        },
+        {
+          "name": "Gisenyi",
+          "population2020": 1328149.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SDN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 52,
+      "score": 15
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 52,
+      "score": 15
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Physical Planning and Urban Development (MPPPU)",
+      "strategy": "N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Khartoum",
+          "population2020": 7290000.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SEN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 8,
+      "score": 32
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 8,
+      "score": 32
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme, des Collectivités Territoriales et de l’Aménagement des Territoires (MUCTAT) [Ministry of Urban Planning, Local Government and Spatial Planning]",
+      "strategy": "Nouveau Plan National d’Aménagement et de Développement Territorial Urbain, 2020-35",
+      "plan": "Plan Directeur d’Urbanisme"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Dakar",
+          "population2020": 3876552.0
+        },
+        {
+          "name": "Touba",
+          "population2020": 1037691.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SLE": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 15,
+      "score": 29
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 15,
+      "score": 29
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands, Housing and Country Planning (MLHCP)",
+      "strategy": "in progress",
+      "plan": "Strategic Urban Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Freetown",
+          "population2020": 1984000.0
+        }
+      ]
+    },
+    "spatial_features_en": "@Heading The impact of the civil war\nThe 11 years of civil war between 1991 and 2002 and the two wars with neighbouring Liberia (1989-97 and 1999-2003) destabilised the economy, provoked mass population displacement, and resulted in the destruction of several cities and infrastructure in the interior. These crises encouraged concentration in the Freetown metropolitan region and its surroundings, which functioned as a refuge: several interior agglomerations were completely emptied of their populations by the unrest. Despite the Ebola outbreak, which according to the WHO affected 28 000 people and caused 11 000 deaths in 2015-15, small cities and towns have emerged rapidly. However, it will take some time for the destabilised urban system to find a new equilibrium. Some of the destroyed towns are just beginning to re-establish themselves, such as Koindu on the border with Guinea.\n@Image image/countrynote/SLE1EN.png\nOthers have become veritable boomtowns, like Magbema (20 000 inhabitants).\n@Image image/countrynote/SLE2EN.png\n@Heading An urban grid spread over the entire territory\nDespite Freetown's strong growth, the urban structure consists of four medium-sized cities between 100 000 and 200 000 inhabitants spread around the country. These four agglomerations are the political and administrative capitals of the three large provinces: Kenema in the east (200 000 inhabitants), Bo in the south (186 000 inhabitants), Makeni in the north (154 000 inhabitants), to which is also added Koidu, a diamond-mining city (138 000 inhabitants). These were already important centres in the 1970s and have shaped territorial development.",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SOM": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 53,
+      "score": 14
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 53,
+      "score": 14
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Public Works and Reconstruction, Directorate of Urban Planning and Development",
+      "strategy": "N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Mogadishu",
+          "population2020": 1874848.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SSD": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 47,
+      "score": 19
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 47,
+      "score": 19
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands, Housing and Physical Planning (MHPP)",
+      "strategy": "N/A",
+      "plan": "City-wide Plan, Settlement plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "STP": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 42,
+      "score": 21
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 42,
+      "score": 21
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministério das Infraestruturas, Recursos Naturais [Ministry of Infrastructure, Natural Resources]",
+      "strategy": "PROPOSTA Plano nacional ordenamento do território de São Tomé e Príncipe, 2021-40",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SWZ": {
+    "cee_en": {
+      "year": null,
+      "rank": 23,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": null,
+      "rank": 23,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Housing and Urban Development",
+      "strategy": "N/A",
+      "plan": "Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "SYC": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 38,
+      "score": 23
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 38,
+      "score": 23
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands and Housing",
+      "strategy": "Seychelles Strategic Land Use and Development Plan, 2015-40",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 0,
+      "agglomerations": []
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "TCD": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 34,
+      "score": 24
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 34,
+      "score": 24
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l’Aménagement du Territoire, de l’Habitat et de l’Urbanisme (MATDHU) [Ministry of Urban Planning, Housing and Urbanism]",
+      "strategy": "Politique Nationale de l'aménagement du territoire de l'urbanisme et de l'habitat",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Ndjamena",
+          "population2020": 1610959.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "TGO": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 26,
+      "score": 26
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 26,
+      "score": 26
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Urbanisme, de l'Habitat et de la Réforme Foncière [Ministry of Urban Planning, Housing and Land Reform]",
+      "strategy": "in progress",
+      "plan": "Schéma directeur d’aménagement et d’urbanisme (SDAU)"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Lomé",
+          "population2020": 2705698.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "TUN": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 24,
+      "score": 27
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 24,
+      "score": 27
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministère de l'Équipement et de l'Habitat [Ministry of Equipment and Housing]",
+      "strategy": "Schéma directeur d’aménagement du territoire national (SDATN), 2007-30",
+      "plan": "Plan d’aménagement"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Tunis",
+          "population2020": 3104165.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "TZA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 4,
+      "score": 36
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 4,
+      "score": 36
+    },
+    "urban_planning_en": {
+      "Ministry": "Wizara ya Ardhi, Nyumba na Maendeleo ya Makazi [Ministry of Land, Housing and Housing Development]",
+      "strategy": "N/A",
+      "plan": "Master Plan"
+    },
+    "large_agglomerations": {
+      "count": 3,
+      "agglomerations": [
+        {
+          "name": "Dar es Salaam",
+          "population2020": 5601592.0
+        },
+        {
+          "name": "Mwanza",
+          "population2020": 1020365.0
+        },
+        {
+          "name": "Arusha",
+          "population2020": 1004897.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "UGA": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 3,
+      "score": 38
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 3,
+      "score": 38
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Lands, Housing and Urban Development",
+      "strategy": "National Physical Development Plan, 2018-40",
+      "plan": "Physical Development Plan"
+    },
+    "large_agglomerations": {
+      "count": 2,
+      "agglomerations": [
+        {
+          "name": "Kampala",
+          "population2020": 4747603.0
+        },
+        {
+          "name": "Mbale",
+          "population2020": 3009317.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "ZAF": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 1,
+      "score": 40
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 1,
+      "score": 40
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Human Settlements",
+      "strategy": "National Spatial Development Framework (NSDF), 2020-50",
+      "plan": "Spatial Development Framework; Scheme"
+    },
+    "large_agglomerations": {
+      "count": 3,
+      "agglomerations": [
+        {
+          "name": "Johannesburg",
+          "population2020": 9100908.0
+        },
+        {
+          "name": "Cape Town",
+          "population2020": 4054604.0
+        },
+        {
+          "name": "Durban",
+          "population2020": 3374423.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "ZMB": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 12,
+      "score": 30
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 12,
+      "score": 30
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Local Government and Rural Development, Department of Physical Planning",
+      "strategy": "#N/A",
+      "plan": "#N/A"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Lusaka",
+          "population2020": 2755544.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  },
+  "ZWE": {
+    "cee_en": {
+      "year": 2021,
+      "rank": 6,
+      "score": 33
+    },
+    "cee_fr": {
+      "year": 2021,
+      "rank": 6,
+      "score": 33
+    },
+    "urban_planning_en": {
+      "Ministry": "Ministry of Local Government and Public Works",
+      "strategy": "N/A",
+      "plan": "Master Plan"
+    },
+    "large_agglomerations": {
+      "count": 1,
+      "agglomerations": [
+        {
+          "name": "Harare",
+          "population2020": 2628093.0
+        }
+      ]
+    },
+    "spatial_features_en": "",
+    "spatial_features_fr": "",
+    "urban_forms_en": "",
+    "urban_forms_fr": "",
+    "territorial_en": "",
+    "territorial_fr": ""
+  }
+}

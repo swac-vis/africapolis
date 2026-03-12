@@ -13,6 +13,14 @@ const navItems = [
       { path: DEFAULT_MAP_PATH, pathname: '/data/map', labelKey: 'nav.dataMap', useStoredUrl: true },
     ],
   },
+  {
+    path: '/analyses',
+    labelKey: 'nav.analyses',
+    subRoutes: [
+      { path: '/analyses', labelKey: 'pages.analyses.tabUrbanisation' },
+      { path: '/analyses/country-notes', labelKey: 'pages.analyses.tabCountryNotes' },
+    ],
+  },
   { path: '/library', labelKey: 'nav.library', anchors: ['publications', 'research', 'dataDrivenStories', 'brochures', 'postcards'] },
   { path: '/news', labelKey: 'nav.news' },
   { path: '/about', labelKey: 'nav.about' },

@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "id": "Urbanisation",
+      "titleKey": "pages.countryNotes.urbanisationTitle",
+      "hasSpecialLayout": true,
+      "template": [
+        "{{countryName}} is one of the most urbanised countries in the continent with {{Urban_population}} people living in urban areas in {{yearRef}} ({{Level_of_urbanisation}} of the population).",
+        "Its urban network counts {{Number_of_agglomerations}} agglomerations, and {{Count_L}} large urban agglomerations of more than 1 million inhabitants.",
+        "{{largestAgglosSentence}}",
+        "{{Population_2020_L_share}} of urban inhabitants live in large agglomerations; {{Population_2020_M_share}} in agglomerations between 100 000 and 1 million people, and {{Population_2020_S_share}} in agglomerations with less than 100 000 inhabitants."
+      ]
+    },
+    {
+      "id": "Dynamics",
+      "titleKey": "pages.countryNotes.dynamicsTitle",
+      "hasSpecialLayout": true,
+      "template": [
+        "By 2050, {{countryName}} agglomerations will add {{Added_population_2050}} inhabitants and over {{Added_area_2050}} km² of urban footprint.",
+        "Intermediary agglomerations will experience the fastest population growth ({{Annual_Growth_M}} annually). Large agglomerations will be growing by {{Annual_Growth_L}} annually and small ones by {{Annual_Growth_S}}.",
+        "Africapolis projects the emergence of {{NewAgglos_2050}} new urban agglomerations between 2021 and 2050."
+      ]
+    },
+    {
+      "id": "SpatialFeatures",
+      "titleKey": "pages.countryNotes.spatialFeaturesTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Spatial_features_text}}"
+      ]
+    },
+    {
+      "id": "UrbanFormsAndColours",
+      "titleKey": "pages.countryNotes.urbanFormsTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Urban_forms_text}}"
+      ]
+    },
+    {
+      "id": "UrbanPlanningPractice",
+      "titleKey": "pages.countryNotes.urbanPlanningTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "@Heading Institutions and strategies",
+        "{{ministryLine}}",
+        "{{strategyLine}}",
+        "{{planLine}}"
+      ]
+    },
+    {
+      "id": "UrbanSocioEconomicIndicators",
+      "titleKey": "pages.countryNotes.socioEconomicTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "African cities outperform the rest of their countries in almost all dimensions. OECD/SWAC estimates that one-third of Africa's per capita GDP growth is due to urbanisation between 2001 and 2020. Urbanisation has improved access to services, infrastructure and economic opportunity for hundreds of millions of people. Cities in {{regionName}} are no exception. Explore their socio-economic performance in the graph below.",
+        "[Discover the evidence.](https://www.oecd.org/en/publications/africa-s-urbanisation-dynamics-2022_3834ed5b-en.html)"
+      ]
+    },
+    {
+      "id": "UrbanGovernance",
+      "titleKey": "pages.countryNotes.governanceTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "@Heading Local governments",
+        "Local governments, the decentralised entities instituted by central governments, play a key role in accompanying rapidly growing cities and tackle existing issues. They represent the needs of residents and are often in charge of managing the delivery of public services.",
+        "{{ceeLine}}",
+        "@Heading Land governance",
+        "A pivotal element of urban governance that significantly influences the success of policies and initiatives in urban areas is the management of land. Many African nations have ineffective land management systems with complex, overlapping land rights, that cause conflicts and complicate the provision of services, infrastructure, as well as the establishment of households and businesses.",
+        "Each country has different land access systems, information on {{countryName}}'s can be found at the [Foncier&développement portal](https://www.foncier-developpement.fr/publication/cadre-juridique-et-institutionnel/)."
+      ]
+    },
+    {
+      "id": "TerritorialDivisions",
+      "titleKey": "pages.countryNotes.territorialTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Territorial_text}}"
+      ]
+    }
+  ]
+}
+

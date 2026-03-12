@@ -1,0 +1,82 @@
+{
+  "sections": [
+    {
+      "id": "Urbanisation",
+      "titleKey": "pages.countryNotes.urbanisationTitle",
+      "hasSpecialLayout": true,
+      "template": [
+        "{{countryName}} compte parmi les pays les plus urbanisés du continent, avec {{Urban_population}} habitants vivant en zone urbaine en {{yearRef}} ({{Level_of_urbanisation}} de la population).",
+        "Son réseau urbain compte {{Number_of_agglomerations}} agglomérations, dont {{Count_L}} grandes agglomérations de plus d’un million d’habitants.",
+        "{{largestAgglosSentence}}",
+        "{{Population_2020_L_share}} des habitants urbains vivent dans de grandes agglomérations ; {{Population_2020_M_share}} dans des agglomérations de 100 000 à 1 million d’habitants, et {{Population_2020_S_share}} dans des agglomérations de moins de 100 000 habitants."
+      ]
+    },
+    {
+      "id": "Dynamics",
+      "titleKey": "pages.countryNotes.dynamicsTitle",
+      "hasSpecialLayout": true,
+      "template": [
+        "D’ici 2050, les agglomérations de {{countryName}} gagneront {{Added_population_2050}} habitants supplémentaires et plus de {{Added_area_2050}} km² de surfaces bâties.",
+        "Les agglomérations intermédiaires connaîtront la croissance de population la plus rapide ({{Annual_Growth_M}} par an). Les grandes agglomérations croîtront de {{Annual_Growth_L}} par an et les petites de {{Annual_Growth_S}}.",
+        "Africapolis prévoit l’émergence de {{NewAgglos_2050}} nouvelles agglomérations urbaines entre 2021 et 2050."
+      ]
+    },
+    {
+      "id": "SpatialFeatures",
+      "titleKey": "pages.countryNotes.spatialFeaturesTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Spatial_features_text}}"
+      ]
+    },
+    {
+      "id": "UrbanFormsAndColours",
+      "titleKey": "pages.countryNotes.urbanFormsTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Urban_forms_text}}"
+      ]
+    },
+    {
+      "id": "UrbanPlanningPractice",
+      "titleKey": "pages.countryNotes.urbanPlanningTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "@Heading Institutions et stratégies",
+        "{{ministryLine}}",
+        "{{strategyLine}}",
+        "{{planLine}}"
+      ]
+    },
+    {
+      "id": "UrbanSocioEconomicIndicators",
+      "titleKey": "pages.countryNotes.socioEconomicTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "Les villes africaines surpassent le reste de leurs pays dans presque toutes les dimensions. L’OCDE/CSAO estime qu’un tiers de la croissance du PIB par habitant de l’Afrique est dû à l’urbanisation entre 2001 et 2020. L’urbanisation a amélioré l’accès aux services, aux infrastructures et aux opportunités économiques pour des centaines de millions de personnes. Les villes de {{regionName}} ne font pas exception. Explorez leurs performances socio-économiques dans le graphique ci‑dessous.",
+        "[Découvrez les preuves.](https://www.oecd.org/en/publications/africa-s-urbanisation-dynamics-2022_3834ed5b-en.html)"
+      ]
+    },
+    {
+      "id": "UrbanGovernance",
+      "titleKey": "pages.countryNotes.governanceTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "@Heading Gouvernance urbaine",
+        "Les gouvernements locaux, entités décentralisées instituées par les gouvernements centraux, jouent un rôle clé pour accompagner la croissance rapide des villes et répondre aux problèmes existants. Ils représentent les besoins des habitants et sont souvent chargés de la fourniture des services publics.",
+        "{{ceeLine}}",
+        "@Heading Gouvernance foncière",
+        "Un élément central de la gouvernance urbaine, qui influence fortement le succès des politiques et des initiatives dans les zones urbaines, est la gestion des terres. De nombreux pays africains disposent de systèmes de gestion foncière peu efficaces, avec des droits fonciers complexes et chevauchants, générant des conflits et compliquant la fourniture de services et d’infrastructures ainsi que l’implantation des ménages et des entreprises.",
+        "Chaque pays possède ses propres systèmes d’accès au foncier ; pour {{countryName}}, des informations sont disponibles sur le [portail Foncier&développement](https://www.foncier-developpement.fr/publication/cadre-juridique-et-institutionnel/)."
+      ]
+    },
+    {
+      "id": "TerritorialDivisions",
+      "titleKey": "pages.countryNotes.territorialTitle",
+      "hasSpecialLayout": false,
+      "template": [
+        "{{Territorial_text}}"
+      ]
+    }
+  ]
+}
